@@ -1,0 +1,406 @@
+﻿#EXTM3U url-tvg="https://epg.ovh/pltv.xml"
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/tvphd.png" group-title="OGÓLNE",TVP
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689648&extension=m3u8&play_token=PBAZdtg0ti
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/tvp1.png" group-title="OGÓLNE",TVP 1
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=814363&extension=m3u8&play_token=ywHYU7w869
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/tvp2.png" group-title="OGÓLNE",TVP 2
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=814362&extension=m3u8&play_token=jbKpnNyK5v
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://51.158.145.100/picons/logos/logos/689809.png" group-title="INFORMACJE",TV REPUBLIKA
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689809&extension=m3u8&play_token=XKc97yS0HK
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://51.158.145.100/picons/logos/logos/689821.png" group-title="INFORMACJE",WPOLSCE
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689821&extension=m3u8&play_token=lI8FedFAv8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/tvpinfo.png" group-title="INFORMACJE",TVP INFO
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=814361&extension=m3u8&play_token=a0PMVwYaUw
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://51.158.145.100/picons/logos/logos/689640.png" group-title="INFORMACJE",TVN24
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689640&extension=m3u8&play_token=Ovbyc5Sb1g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://51.158.145.100/picons/logos/logos/689639.png" group-title="INFORMACJE",TVN24 BIS
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689639&extension=m3u8&play_token=JMx85mWwI4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://51.158.145.100/picons/logos/logos/689711.png" group-title="INFORMACJE",POLSAT NEWS
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689711&extension=m3u8&play_token=ZT1pxsy5HN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://51.158.145.100/picons/logos/logos/689785.png" group-title="INFORMACJE",POLSAT NEWS 2
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689785&extension=m3u8&play_token=k8RCDVnjQX
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://51.158.145.100/picons/logos/logos/689761.png" group-title="INFORMACJE",POLSAT NEWS POLITYKA
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689761&extension=m3u8&play_token=6PucVZ2uIH
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://51.158.145.100/picons/logos/logos/690390.png" group-title="INFORMACJE",CNNI
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=690390&extension=m3u8&play_token=UvVmOGDUEp
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://51.158.145.100/picons/logos/logos/986068.png" group-title="INFORMACJE",WYDARZENIA 24
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=986068&extension=m3u8&play_token=C6dUf1uufr
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://51.158.145.100/picons/logos/logos/689708.png" group-title="INFORMACJE",BIZNES24
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689708&extension=m3u8&play_token=VJbKsbzvmu
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/tvpkultura.png" group-title="OGÓLNE",TVP KULTURA
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=814359&extension=m3u8&play_token=Radb60HDau
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/polsatseriale.png" group-title="OGÓLNE",POLSAT SERIALE
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=814358&extension=m3u8&play_token=2uGrvSsCON
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/tvpdokumenthd.png" group-title="OGÓLNE",TVP DOKUMENT
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=814357&extension=m3u8&play_token=2vqasgNc62
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/tvn.png" group-title="OGÓLNE",TVN
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=814356&extension=m3u8&play_token=kT14HgveBO
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/tvn7.png" group-title="OGÓLNE",TVN 7
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=814355&extension=m3u8&play_token=z66bDB9O3g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/dtx.png" group-title="OGÓLNE",POLSAT
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=814352&extension=m3u8&play_token=sPaA1UTJBY
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/polsat2.png" group-title="OGÓLNE",POLSAT 2
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=814351&extension=m3u8&play_token=WqlFPdYstA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/tvnfabula.png" group-title="FILMOWE",TVN FABULA
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=814350&extension=m3u8&play_token=lV7UF0ArCp
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/tv4.png" group-title="OGÓLNE",TV4
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=814349&extension=m3u8&play_token=8s46nfVRFB
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/tv6.png" group-title="OGÓLNE",TV6
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=814348&extension=m3u8&play_token=06S7dhxK48
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/ttv.png" group-title="OGÓLNE",TTV
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=814347&extension=m3u8&play_token=wtUSlJoN4u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/dtx.png" group-title="OGÓLNE",DTX
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=814346&extension=m3u8&play_token=4YhqElS2ks
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/motowizja.png" group-title="OGÓLNE",MOTOWIZJA
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=814345&extension=m3u8&play_token=JdTKfhl5jR
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/fightbox.png" group-title="OGÓLNE",FIGHTBOX
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=814344&extension=m3u8&play_token=7hfkOWEJXX
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/fightklub.png" group-title="OGÓLNE",FIGHTKLUB
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=814343&extension=m3u8&play_token=fkyQsqBWem
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/tvpsport.png" group-title="OGÓLNE",TVP SPORT
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=814342&extension=m3u8&play_token=Cl9JMFCPw6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/eurosport1.png" group-title="OGÓLNE",EUROSPORT 1
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=814341&extension=m3u8&play_token=Ui6HhrNywb
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/eurosport2.png" group-title="OGÓLNE",EUROSPORT 2
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=814340&extension=m3u8&play_token=wk6T3w4xlN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/sportklub.png" group-title="OGÓLNE",SPORTKLUB
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=814339&extension=m3u8&play_token=BNH9M2WhPs
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/polsatsport.png" group-title="OGÓLNE",POLSAT SPORT 1
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=814338&extension=m3u8&play_token=fLQiZ5j8x8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/polsatsportfighthd.png" group-title="OGÓLNE",POLSAT SPORT FIGHT
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=814337&extension=m3u8&play_token=qo1CIU5qIn
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/polsatsport.png" group-title="OGÓLNE",POLSAT SPORT 3
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=814336&extension=m3u8&play_token=9PdD2nsBgE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/polsatsport.png" group-title="OGÓLNE",POLSAT SPORT 2
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=814335&extension=m3u8&play_token=F5HAqnlugE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/canalplussport.png" group-title="OGÓLNE",CANAL+ SPORT
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=814334&extension=m3u8&play_token=88OmRyKNly
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/canalplussport2.png" group-title="OGÓLNE",CANAL+ SPORT 2
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=814333&extension=m3u8&play_token=OfzZq19ySI
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/canalplussport3hd.png" group-title="OGÓLNE",CANAL+ SPORT 3
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=814332&extension=m3u8&play_token=xgdlRDaVIh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/canalplussport4hd.png" group-title="OGÓLNE",CANAL+ SPORT 4
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=814331&extension=m3u8&play_token=Q90JzNJDAd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/canalplussport5hd.png" group-title="OGÓLNE",CANAL+ SPORT 5
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=814330&extension=m3u8&play_token=ptvPyBCRw8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/extremesports.png" group-title="OGÓLNE",EXTREME SPORTS
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=814329&extension=m3u8&play_token=EH8zxHQ7ZW
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/elevensports1.png" group-title="OGÓLNE",ELEVEN SPORTS 1 4K
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=814328&extension=m3u8&play_token=vQcs9CpgLf
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/elevensports1.png" group-title="OGÓLNE",ELEVEN SPORTS 1
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=814327&extension=m3u8&play_token=GSYQTrPtwP
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/elevensports2.png" group-title="OGÓLNE",ELEVEN SPORTS 2
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=814326&extension=m3u8&play_token=r9dxVdtzNc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/elevensports3.png" group-title="OGÓLNE",ELEVEN SPORTS 3
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=814325&extension=m3u8&play_token=egk2GwcWJm
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/elevensports4.png" group-title="OGÓLNE",ELEVEN SPORTS 4
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=814324&extension=m3u8&play_token=q8Qri0mecf
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/polsatsportpremium1.png" group-title="OGÓLNE",POLSAT SPORT PREMIUM 1
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=814323&extension=m3u8&play_token=TKWlNkjRRp
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/polsatsportpremium2.png" group-title="OGÓLNE",POLSAT SPORT PREMIUM 2
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=814322&extension=m3u8&play_token=M5yrWYKoEy
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/polsatsportpremiumppv3.png" group-title="OGÓLNE",POLSAT SPORT PREMIUM 3
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=814321&extension=m3u8&play_token=jich2M7OsC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/polsatsportpremiumppv4.png" group-title="OGÓLNE",POLSAT SPORT PREMIUM 4
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=814320&extension=m3u8&play_token=Vr4A1QWn9v
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/polsatsportpremiumppv5.png" group-title="OGÓLNE",POLSAT SPORT PREMIUM 5
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=814319&extension=m3u8&play_token=bAVINA7864
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/polsatsportpremiumppv6.png" group-title="OGÓLNE",POLSAT SPORT PREMIUM 6
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=814318&extension=m3u8&play_token=oZhHVJvXGY
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/polsatrodzina.png" group-title="FILMOWE",POLSAT RODZINA
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689646&extension=m3u8&play_token=L7qnTPWLvR
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/polsatfilm.png" group-title="FILMOWE",POLSAT FILM
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689647&extension=m3u8&play_token=an6pARpYzH
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/canalplus1.png" group-title="FILMOWE",CANAL+ 1
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689651&extension=m3u8&play_token=iF961ZULr0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/canalplusnow.png" group-title="FILMOWE",CANAL+ NOW
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689653&extension=m3u8&play_token=mxJ7QyC8Xx
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/canalpluspremiumhd.png" group-title="FILMOWE",CANAL+ PREMIUM
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689654&extension=m3u8&play_token=uY82n4Zmnt
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/canalplusseriale.png" group-title="FILMOWE",CANAL+ SERIALE
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689655&extension=m3u8&play_token=jVl0rTCxds
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.118/picons/logos/HBO-HD.png" group-title="FILMOWE",HBO
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689658&extension=m3u8&play_token=seXrfbV4kj
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/hbo2.png" group-title="FILMOWE",HBO 2
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689656&extension=m3u8&play_token=3HXJ9YbmAB
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/hbo3.png" group-title="FILMOWE",HBO 3
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689657&extension=m3u8&play_token=npUERmSZQm
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/alekinoplus.png" group-title="FILMOWE",ALE KINO+
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689659&extension=m3u8&play_token=GBm6ixjIJh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/canalplusfilm.png" group-title="FILMOWE",CANAL+ FILM
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689661&extension=m3u8&play_token=J0MlpsoO7h
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/axn.png" group-title="FILMOWE",AXN
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689662&extension=m3u8&play_token=lGgniPhS3c
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/axnspin.png" group-title="FILMOWE",AXN SPIN
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689663&extension=m3u8&play_token=eeMhNBtaZS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/cinemax.png" group-title="FILMOWE",CINEMAX
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689667&extension=m3u8&play_token=xHzqzgklYM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/cinemax2.png" group-title="FILMOWE",CINEMAX 2
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689664&extension=m3u8&play_token=iLkIyW2vLW
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/comedycentral.png" group-title="FILMOWE",COMEDY CENTRAL
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689665&extension=m3u8&play_token=6i2fyZMJdu
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/comedycentralpolandhd.png" group-title="FILMOWE",COMEDY CENTRAL POLAND
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689666&extension=m3u8&play_token=uQU4H0Nx9C
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/filmboxextra.png" group-title="FILMOWE",FILMBOX EXTRA
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689668&extension=m3u8&play_token=XyA9V2Zghu
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/filmboxpremium.png" group-title="FILMOWE",FILMBOX PREMIUM
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689669&extension=m3u8&play_token=HD6ZSCE5VF
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/foxcomedy.png" group-title="FILMOWE",FOX COMEDY
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689672&extension=m3u8&play_token=R5FD0J96Rs
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/kino.png" group-title="FILMOWE",KINO TV
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689674&extension=m3u8&play_token=OUNLIZLpGK
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/kinopolska.png" group-title="FILMOWE",KINO POLSKA
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689676&extension=m3u8&play_token=Sh8dLqvhQi
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/fox.png" group-title="FILMOWE",FOX
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689675&extension=m3u8&play_token=d09tfR1CEQ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.118/picons/logos/TLC-HD.png" group-title="FILMOWE",TLC
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689678&extension=m3u8&play_token=EDPVt6ljUN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/paramountchannel.png" group-title="FILMOWE",PARAMOUNT CHANNEL
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689680&extension=m3u8&play_token=dYvmoHQfJX
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/scifiuniversal.png" group-title="FILMOWE",SCIFI UNIVERSAL
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689701&extension=m3u8&play_token=p7J9sTx4Wf
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/amc.png" group-title="FILMOWE",AMC
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689719&extension=m3u8&play_token=glu38uAuRG
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/novelasplus.png" group-title="FILMOWE",NOVELAS+
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689742&extension=m3u8&play_token=WKYjQXF2WQ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/redcarpettv.png" group-title="FILMOWE",RED CARPET TV
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689757&extension=m3u8&play_token=9QCj0xHH8a
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/axnblack.png" group-title="FILMOWE",AXN BLACK
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689776&extension=m3u8&play_token=A8FPAJhnRh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/axnwhite.png" group-title="FILMOWE",AXN WHITE
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689777&extension=m3u8&play_token=cxELcKBt6s
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/bbcfirst.png" group-title="FILMOWE",BBC FIRST
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689703&extension=m3u8&play_token=byhl4otXR2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/romances.png" group-title="FILMOWE",ROMANCE TV
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689758&extension=m3u8&play_token=Bn14gI2a8L
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/filmboxaction.png" group-title="FILMOWE",FILMBOX ACTION
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689779&extension=m3u8&play_token=EC4jqFSGfU
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/filmboxarthouse.png" group-title="FILMOWE",FILMBOX ARTHOUSE
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689780&extension=m3u8&play_token=6nfYII3J5B
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/filmboxfamily.png" group-title="FILMOWE",FILMBOX FAMILY
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689781&extension=m3u8&play_token=6CboYPV8ft
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/kinopolskamuzyka.png" group-title="FILMOWE",KINO POLSKA MUZYKA
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689799&extension=m3u8&play_token=W9qoRUExcq
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/activefamily.png" group-title="FILMOWE",ACTIVE FAMILY
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689778&extension=m3u8&play_token=9VeyjiBmTT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/epicdrama.png" group-title="FILMOWE",EPIC DRAMA
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689731&extension=m3u8&play_token=YBkN6lzopT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/vod206.png" group-title="FILMOWE",VOD 206
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689816&extension=m3u8&play_token=AO5vfmwUcS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/vod207.png" group-title="FILMOWE",VOD 207
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689817&extension=m3u8&play_token=WjM6a6TsfO
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/vod208.png" group-title="FILMOWE",VOD 208
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689818&extension=m3u8&play_token=ahyb6mFSLB
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/tvpseriale.png" group-title="FILMOWE",TVP SERIALE
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689823&extension=m3u8&play_token=2RNX0d5t8e
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/travelchannel.png" group-title="DOKUMENTALNE",TRAVEL CHANNEL
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689707&extension=m3u8&play_token=I8Eb1YQb7C
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/canalplusdokumenthd.png" group-title="DOKUMENTALNE",CANAL+ DOKUMENT
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689710&extension=m3u8&play_token=AfIvvZno3G
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/natgeopeople.png" group-title="DOKUMENTALNE",NAT GEO PEOPLE
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689712&extension=m3u8&play_token=A9NGfVLIHe
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/natgeowild.png" group-title="DOKUMENTALNE",NAT GEO WILD
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689713&extension=m3u8&play_token=iWkmVVGFQP
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/nationalgeographic.png" group-title="DOKUMENTALNE",NATIONAL GEOGRAPHIC
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689714&extension=m3u8&play_token=MaoP8KLfwV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/animalplanet.png" group-title="DOKUMENTALNE",ANIMAL PLANET
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689715&extension=m3u8&play_token=fPE3tmGJTY
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/planeteplus.png" group-title="DOKUMENTALNE",PLANETE+
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689747&extension=m3u8&play_token=hHxx175g5X
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/crimeandinvestigation.png" group-title="DOKUMENTALNE",CRIME AND INVESTIGATION
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689723&extension=m3u8&play_token=LRLJvkh7gR
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/discovery.png" group-title="DOKUMENTALNE",DISCOVERY
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689724&extension=m3u8&play_token=kvSuVhuCpM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/discoveryscience.png" group-title="DOKUMENTALNE",DISCOVERY SCIENCE
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689726&extension=m3u8&play_token=0biXMAGYHy
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/eentertainment.png" group-title="DOKUMENTALNE",E! ENTERTAINMENT
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689730&extension=m3u8&play_token=Y2UgXMvALT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/foodnetwork.png" group-title="DOKUMENTALNE",FOOD NETWORK
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689671&extension=m3u8&play_token=kmmfbM44O3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/adventurehd.png" group-title="DOKUMENTALNE",ADVENTURE
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689718&extension=m3u8&play_token=H89iIBC5yM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/h2hd.png" group-title="DOKUMENTALNE",H2
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689734&extension=m3u8&play_token=1PcsZtg4wt
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.118/picons/logos/INVESTIGATION-DISCOVERY.png" group-title="DOKUMENTALNE",ID
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689736&extension=m3u8&play_token=aUQQyRZVzW
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.118/picons/logos/VIASAT-EXPLORER.png" group-title="DOKUMENTALNE",POLSAT VIASAT EXPLORE
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689754&extension=m3u8&play_token=OlPLxCzQpr
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/polsatviasathistory.png" group-title="DOKUMENTALNE",POLSAT VIASAT HISTORY
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689755&extension=m3u8&play_token=g6tMKjkfPd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/polsatviasatnature.png" group-title="DOKUMENTALNE",POLSAT VIASATTURE
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689756&extension=m3u8&play_token=VVWp99JFeX
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/tvphistoria.png" group-title="DOKUMENTALNE",TVP HISTORIA
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689774&extension=m3u8&play_token=SLvVqZVA3x
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/davincilearning.png" group-title="MUZYKA | DZIECI",DA VINCI LEARNING
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689788&extension=m3u8&play_token=17y34MrD8I
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/bbcearth.png" group-title="DOKUMENTALNE",BBC EARTH
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689716&extension=m3u8&play_token=Al6O8flV26
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/discoveryhistoria.png" group-title="DOKUMENTALNE",DISCOVERY HISTORIA
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689784&extension=m3u8&play_token=wA3IVYQEuG
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/home.png" group-title="DOKUMENTALNE",HOME TV
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689798&extension=m3u8&play_token=BsRizxTrAM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/waterplanet.png" group-title="DOKUMENTALNE",WATER PLANET
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689819&extension=m3u8&play_token=qOo21hVjS4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://51.158.145.100/picons/logos/logos/826828.png" group-title="INFORMACJE",TRWAM
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=826828&extension=m3u8&play_token=vremGCQnZH
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/tvnstyle.png" group-title="OGÓLNE",TVN STYLE
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689637&extension=m3u8&play_token=5WNByBHxXh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/tvnturbo.png" group-title="OGÓLNE",TVN TURBO
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689638&extension=m3u8&play_token=iq5hm6JW3X
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/13ulicahd.png" group-title="OGÓLNE",13 ULICA
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689660&extension=m3u8&play_token=eUXXg77oSJ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/fokustv.png" group-title="OGÓLNE",FOKUS TV
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689670&extension=m3u8&play_token=Exk5lzjIqI
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/puls2.png" group-title="OGÓLNE",PULS 2
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689673&extension=m3u8&play_token=ZjSerjZ7zb
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/puls.png" group-title="FILMOWE",PULS
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689677&extension=m3u8&play_token=NNFodn1Tvr
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.118/picons/logos/TNT-HD.png" group-title="OGÓLNE",TNT
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689679&extension=m3u8&play_token=kSHD0p4MtD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/bbcbrit.png" group-title="OGÓLNE",BBC BRIT
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689702&extension=m3u8&play_token=RGqvZm53ww
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/bbclifestyle.png" group-title="OGÓLNE",BBC LIFESTYLE
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689717&extension=m3u8&play_token=xmtq9f8CyN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/cartoonnetwork.png" group-title="MUZYKA | DZIECI",CARTOON NETWORK
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689720&extension=m3u8&play_token=RybEGdd2bb
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/domoplus.png" group-title="OGÓLNE",DOMO+
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689728&extension=m3u8&play_token=6KmLewVb2O
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/kuchniaplus.png" group-title="OGÓLNE",KUCHNIA+
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689737&extension=m3u8&play_token=NaMkbQtzPR
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/nowatv.png" group-title="OGÓLNE",NOWA TV
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689745&extension=m3u8&play_token=28Ek8pK2Md
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/polsatcafe.png" group-title="OGÓLNE",POLSAT CAFE
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689748&extension=m3u8&play_token=w1E5lMdOtV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/polsatcomedycentralextra.png" group-title="OGÓLNE",POLSAT COMEDY CENTRAL EXTRA
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689749&extension=m3u8&play_token=W6G1h3mtTI
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/polsatdoku.png" group-title="OGÓLNE",POLSAT DOKU
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689750&extension=m3u8&play_token=W9mmeyO7gX
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/polsatgames.png" group-title="OGÓLNE",POLSAT GAMES
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689751&extension=m3u8&play_token=Qbso2yeS3A
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/polsatplay.png" group-title="OGÓLNE",POLSAT PLAY
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689753&extension=m3u8&play_token=5zkP48Pz3t
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://51.158.145.100/picons/logos/logos/TELEWIZJA-TVT.png" group-title="OGÓLNE",TELEWIZJA TVT
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=1187593&extension=m3u8&play_token=wjVoK9C1Jp
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/studiomedtv.png" group-title="OGÓLNE",STUDIOMED TV
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689759&extension=m3u8&play_token=cVyzJvypBQ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/superpolsat.png" group-title="OGÓLNE",SUPER POLSAT
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689766&extension=m3u8&play_token=bW0PUMyrCz
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/hgtv.png" group-title="OGÓLNE",HGTV
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689767&extension=m3u8&play_token=SDhvpXoOpn
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/tvppolonia.png" group-title="OGÓLNE",TVP POLONIA 1
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689771&extension=m3u8&play_token=Vp44ANSriz
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/tvp3.png" group-title="OGÓLNE",TVP 3
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689772&extension=m3u8&play_token=OcmD8p2uKX
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/tvpabc.png" group-title="OGÓLNE",TVP ABC
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689773&extension=m3u8&play_token=yjrEvyjgDk
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/tvprozrywka.png" group-title="OGÓLNE",TVP ROZRYWKA
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689775&extension=m3u8&play_token=Ee188dxQ2j
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.118/picons/logos/POLAND/TVP-KOBIETA.png" group-title="OGÓLNE",TVP KOBIETA
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=1115300&extension=m3u8&play_token=Bftr2Y9b1X
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/tele5.png" group-title="OGÓLNE",TELE 5
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689782&extension=m3u8&play_token=rqAimkeLOs
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/metrotv.png" group-title="OGÓLNE",METRO
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689800&extension=m3u8&play_token=iVixIDXJbV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/wp.png" group-title="OGÓLNE",WP
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689820&extension=m3u8&play_token=Z1R6WHMDDx
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/zoom.png" group-title="OGÓLNE",ZOOM TV
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689822&extension=m3u8&play_token=xClZqziwpi
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/boomerang.png" group-title="MUZYKA | DZIECI",CARTOONITO
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689709&extension=m3u8&play_token=rf8pcHcfPW
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/cbsreality.png" group-title="MUZYKA | DZIECI",CBS REALITY
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689722&extension=m3u8&play_token=U6MvQau2IO
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/disneychannel.png" group-title="MUZYKA | DZIECI",DISNEY CHANNEL
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689727&extension=m3u8&play_token=lAFde8qMIr
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/miniminiplus.png" group-title="MUZYKA | DZIECI",MINIMINI
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689738&extension=m3u8&play_token=YegSM9qE4d
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/nicktoons.png" group-title="MUZYKA | DZIECI",NICKTOONS
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689740&extension=m3u8&play_token=bJM42twbvt
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/teennick.png" group-title="MUZYKA | DZIECI",TEENNICK
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689741&extension=m3u8&play_token=I6fHYDk0kS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/mtvlive.png" group-title="MUZYKA | DZIECI",MTV LIVE
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689743&extension=m3u8&play_token=I4UbMY2554
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/mtvpolska.png" group-title="MUZYKA | DZIECI",MTV POLSKA
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689744&extension=m3u8&play_token=hSbNMlg4KS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/polsatmusichd.png" group-title="MUZYKA | DZIECI",POLSAT MUSIC
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689752&extension=m3u8&play_token=71CKDTZ9BP
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/sundance.png" group-title="MUZYKA | DZIECI",SUNDANCE TV
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689760&extension=m3u8&play_token=Z5ch4BBVYp
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/polotv.png" group-title="MUZYKA | DZIECI",POLO TV
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689769&extension=m3u8&play_token=T1qMq56pwr
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/bbccbeebies.png" group-title="MUZYKA | DZIECI",BBC CBEEBIES
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689786&extension=m3u8&play_token=02EJiqfb2z
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/babytv.png" group-title="MUZYKA | DZIECI",BABY TV
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689787&extension=m3u8&play_token=S6YMOVFl8H
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/discopolomusic.png" group-title="MUZYKA | DZIECI",DISCO POLO MUSIC
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689789&extension=m3u8&play_token=uyf8pu6Zf5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/4fundance.png" group-title="MUZYKA | DZIECI",4FUN DANCE
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689790&extension=m3u8&play_token=Kzob5GLS3g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/4fungoldhits.png" group-title="MUZYKA | DZIECI",4FUN KIDS
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689791&extension=m3u8&play_token=oWcjV8qZKJ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/4funtv.png" group-title="MUZYKA | DZIECI",4FUN.TV
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689792&extension=m3u8&play_token=l1WPD3lW6S
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/disneyjunior.png" group-title="MUZYKA | DZIECI",DISNEY JUNIOR
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689793&extension=m3u8&play_token=LMHUeycjsi
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/disneyxd.png" group-title="MUZYKA | DZIECI",DISNEY XD
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689794&extension=m3u8&play_token=ad599JrRZ2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/eskarocktv.png" group-title="MUZYKA | DZIECI",ESKA ROCK TV
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689795&extension=m3u8&play_token=cJrjyUsgaB
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/eskatv.png" group-title="MUZYKA | DZIECI",ESKA TV
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689796&extension=m3u8&play_token=vZG3cUkhmo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/eskatvextra.png" group-title="MUZYKA | DZIECI",ESKA TV EXTRA
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689797&extension=m3u8&play_token=CNvGhprNQG
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/nickjrpolska.png" group-title="MUZYKA | DZIECI",NICK JR POLSKA
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689801&extension=m3u8&play_token=ETtUFsuB8m
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.118/picons/logos/NICKELODEON-HD.png" group-title="MUZYKA | DZIECI",NICKELODEON
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689802&extension=m3u8&play_token=MoaiEy11bB
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/nutatv.png" group-title="MUZYKA | DZIECI",NUTA TV
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689805&extension=m3u8&play_token=DB51AvpviU
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.protv.cc/piconsnew/polsatjimjam.png" group-title="MUZYKA | DZIECI",POLSAT JIM JAM
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689806&extension=m3u8&play_token=yRA3wjkN9N
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.protv.cc/piconsnew/powerhd.png" group-title="MUZYKA | DZIECI",POWER TV
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689807&extension=m3u8&play_token=8fxegqSBrv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.118/picons/logos/TVS--.png" group-title="MUZYKA | DZIECI",TVS
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689811&extension=m3u8&play_token=26k6Ampirb
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.118/picons/logos/MTV-HD.png" group-title="MUZYKA | DZIECI",MTV 00S
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689812&extension=m3u8&play_token=0LNKqwYA8E
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.protv.cc/piconsnew/musicboxpolska.png" group-title="MUZYKA | DZIECI",MUSIC BOX POLSKA
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689813&extension=m3u8&play_token=arK1e7xQyi
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.protv.cc/piconsnew/voxmusic.png" group-title="MUZYKA | DZIECI",VOX MUSIC TV
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689814&extension=m3u8&play_token=QJ9mg7pGyK
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://51.158.145.100/picons/logos/logos/PPV-EVENTS.png" group-title="SPORTOWE",PPV EVENTS
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=696887&extension=m3u8&play_token=rjcIonLvhw
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.protv.cc/piconsnew/polsatsportpremiumppv4.png" group-title="SPORTOWE",POLSAT SPORT EXTRA 4
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689688&extension=m3u8&play_token=ZI2r5n4S8Q
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.protv.cc/piconsnew/polsatsportpremiumppv5.png" group-title="SPORTOWE",POLSAT SPORT EXTRA 1
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689689&extension=m3u8&play_token=XbLOmdgE1y
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.protv.cc/piconsnew/polsatsportpremiumppv6.png" group-title="SPORTOWE",POLSAT SPORT EXTRA 2
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689690&extension=m3u8&play_token=0Ovlcwzpmq
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.118/picons/logos/logos/CANAL-PLUS-360.png" group-title="SPORTOWE",CANAL+ 360
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689652&extension=m3u8&play_token=DrFPteAa2S
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.118/piconsnew/canalplussport.png" group-title="SPORTOWE",CANAL+ EXTRA 1
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=1142683&extension=m3u8&play_token=UB8rFYV2CD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.118/piconsnew/canalplussport.png" group-title="SPORTOWE",CANAL+ EXTRA 2
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=1142681&extension=m3u8&play_token=gNCT34X7Q2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.118/piconsnew/canalplussport.png" group-title="SPORTOWE",CANAL+ EXTRA 3
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=1142679&extension=m3u8&play_token=GvW6BdqYDB
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.118/piconsnew/canalplussport.png" group-title="SPORTOWE",CANAL+ EXTRA 4
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=1142677&extension=m3u8&play_token=XmeOerKusk
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.118/piconsnew/canalplussport.png" group-title="SPORTOWE",CANAL+ EXTRA 5
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=1308305&extension=m3u8&play_token=rMcM7U83mU
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.118/piconsnew/canalplussport.png" group-title="SPORTOWE",CANAL+ EXTRA 6
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=1308306&extension=m3u8&play_token=mvBr6GeMiV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.118/piconsnew/canalplussport.png" group-title="SPORTOWE",CANAL+ EXTRA 7
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=1308362&extension=m3u8&play_token=xOMYNLkRW5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.118/picons/logos/GOLF-CHANNEL-NP.png" group-title="SPORTOWE",GOLF CHANNEL
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689733&extension=m3u8&play_token=HhOYcbJUL0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.protv.cc/piconsnew/nsportplus.png" group-title="SPORTOWE",NSPORT+
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689746&extension=m3u8&play_token=gVZeiSgCef
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.protv.cc/piconsnew/stopklatka.png" group-title="SPORTOWE",STOPKLATKA TV
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=689783&extension=m3u8&play_token=AUzFm2EJ8M
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1433874.png" group-title="FILMOWE",TVN KRYMINALNIE
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=1302561&extension=m3u8&play_token=STjM0ZfKWz
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1433876.png" group-title="FILMOWE",TVN KULTOWE SERIALE
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=1302560&extension=m3u8&play_token=Ymq4YZN1QL
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1433888.png" group-title="FILMOWE",TVN SERIAL O KOBIETACH
+http://mag.dino.ws:80/play/live.php?mac=00:1A:79:64:35:00&stream=1302562&extension=m3u8&play_token=A2n5Wni2rP
