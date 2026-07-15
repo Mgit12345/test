@@ -1,0 +1,485 @@
+#EXTM3U url-tvg="https://epg.ovh/pltv.xml"
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/4fc089dcef909e1f2b7c6ba23ed4d208.png",TVP
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105348
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/b7589e99b86a35a25306948e458cc5ef.png",TVP 1
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105345
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/973d02b39d8460242cfe79887635c963.png",TVP 2
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105346
+#EXTINF:-1 tvg-logo="https://logoipro2.com/logo/40274.png", Republika
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:22:1A:77&stream=257213&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/tvrepublika.png",Republika Plus
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105463
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/wPolsce.pl.png",wPolsce 24
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105464
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/f9e7859024d3f269a3295e461ee99b81.png",Wydarzenia 24
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/151853
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/a68da3b7c1a1694599c63812d3dd3df2.png",TVP Info
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105462
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/Biznes24+HD.png",Biznes 24
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/119834
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/polsat/polsatnews.png",Polsat News
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105465
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/polsat/polsatnews2.png",Polsat News 2
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105466
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/tvn24hd.png",TVN 24
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105467
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/tvn24biznesiswiat.png",TVN 24 BiS
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105468
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/alekinoplushd.png",Ale Kino+
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105361
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/canalplus1hd.png",Canal+ 1
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105363
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/canalplushd.png",Canal+ Premium
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105362
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/98cf6425061d6b8740dfc7ff7cff4c1f.png",Canal+ Film
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105364
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/e405664b2aeba493f05db093737b1853.png",Canal+ 360
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105365
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/canalplusserialehd.png",Canal+ Seriale
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105366
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/f9adcc04d047cc512ebe96f95745912f.png",HBO
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105368
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/12713c6ff264a3ac58c707c7b2a4bbcf.png",HBO 2
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105369
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/cee71028915464dbf234547f65c22c0e.png",HBO 3
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105370
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/0874f230b6ba300544ba4f90689d9a72.png",Cinemax
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105371
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/cinemax2hd.png",Cinemax 2
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105372
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/bf1b9303db9bce9f7d547ad418353b2a.png",Filmbox Extra
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105373
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/cff179fcdb23d2951807bc3040cda9c3.png",Filmbox Action
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105374
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/filmboxarthouse.png",Filmbox Arthouse
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105375
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/filmboxpremium.png",Filmbox Premium
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105376
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/aa1e8832a1b2c29d9950c4899033b08a.png",Filmbox Family
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105377
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/foxhd.png",FX
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105378
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/foxcomedyhd.png",FX Comedy
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105379
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/13ulicahd.png",13 Ulica
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105380
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/axnhd.png",AXN
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105381
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/axnblack.png",AXN Black
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105382
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/8d3a45db744642c838ec164e5c7b21dd.png",AXN Spin
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105383
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/axnwhite.png",AXN White
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105384
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/stopklatkatv.png",Stopklatka TV
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105387
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/7302859692925d4b45fb5b92ffa3dfd0.png",Active Family
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105388
+#EXTINF:-1  tvg-logo="http://fabryka.stream:8880/images/bfeea42f9d27d8a5e4879b4e7a55cb21.png",Kino Polska
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105389
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/KinoTV.png",Kino TV
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105390
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/sundancehd.png",Sundance
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105391
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/polsat/polsatfilm.png",Polsat Film
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105392
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/27645951f8a7c8d54011f0ab86b64f5f.png",Romance TV
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105394
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/e9828e94e6fa51ccf2f1b4d5bf23230c.png",Paramount Network
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105395
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/scifi.png",SciFi
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105396
+#EXTINF:-1  tvg-logo="https://htvc.vn/uploads/editor/images/Logo%20Kenh/logo_WarnerTV_422x278.png",Warner TV
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105397
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/cbseuropa.png",Film Cafe
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105406
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/c7079714540d46c9f5bb9f78f090ea39.png",Polsat
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105349
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/2ff9b139bd723859d0a79125cbd190e9.png",Polsat 2
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105350
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/abdc327fd10084b3e6877cccbfd4f4e2.png",Super Polsat
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105351
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/2ea325ffb82521ee39ad2403eef6084a.png",TVN
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105352
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/8976ea86fa5393676636d0d9bfe716ce.png",TTV
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105353
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/f7c242d4f286ca40d1cc4c90d568a589.png",TV 4
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105354
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/TV%206%20HD.png",TV 6
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105355
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/97bd0a95cd7e9dc1a65069be3ccb129d.png",TVN 7
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105356
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/ddbf13685943f24041438d7653d09f87.png",TV Puls
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105357
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/526dedb5075de82a3a60fc48bdfb0e25.png",Puls 2
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105358
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/comedycentralhd.png",Comedy Central
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105385
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/aff4676b89d4f41d548c39056da92c51.png",Polsat Comedy Central Extra
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105386
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/tvnfabula.png",TVN Fabula
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105393
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/4c1993ef3762fba502ff20578d5c7651.png",TVP Seriale
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105398
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/b79d2096c66248cad58c309283bcd8d4.png",Metro
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105399
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/adventurehd.png",Adventure
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105400
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/animalplanethd.png",Animal Planet
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105401
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/7b0c0f3a88cd6e0ba5b4c2469ec62d9e.png",BBC First
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105402
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/bbclifestyle.png",BBC Lifestyle
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105404
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/bbcearthhd.png",BBC Earth
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105405
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/a663a79a5488f99aed3da06427d74be5.png",CBS Reality
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105407
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/CI%20Polsat.png",CI Polsat
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105408
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/canalplusdiscoveryhd.png",Canal+ Dokument
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105409
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/95ba0b8bff0356941e9e52c927d4278c.png",Discovery
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105410
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/discoveryhistoria.png",Discovery Historia
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105411
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/discoverylifepoland.png",Discovery Life
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105412
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/discoverysciencehd.png",Discovery Science
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105413
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/idhd.png",ID
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105414
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/domoplushd.png",Canal+ Domo
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105416
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/epicdramahd.png",Epic Drama
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105417
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/eentertainment.png",E! Entertainment
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105418
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/6b7378044d05174e0c1dc78e7d545b8a.png",Show TV
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/134089
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/3e0f56568349f095c63e4484e9deacf0.png",Food Network
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105419
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/f3e2783dfb3517fce5251e6ffce65c8c.png",Fokus TV
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105420
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/50d4859f871c253cdd38796675a47bb3.png",History
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105421
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/57ba1b309c448eae56337ebb48f80e4f.png",History 2
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105422
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/natgeohd.png",National Geographic
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105423
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/09f3e55d09d705c6b987fa46c2989d69.png",National Geographic Wild
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105424
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/NatGeoPeople.png",Nat Geo People
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105425
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/planeteplushd.png",Planete+
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105426
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/waterplanet.png",Water Planet
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105427
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/polsat/polsatdoku.png",Polsat Doku
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105428
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/9d123fd69b8da6ff39bd573bd18ab632.png",Polsat Viasat History
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105429
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/128619136b16ade6483fed9c1254ffe4.png",Polsat Viasat Explore
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105430
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/polsatviasatnature.png",Polsat Viasat Nature
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105431
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/polsat/polsatcafe.png",Polsat Cafe
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105432
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/polsat/polsatrodzina.png",Polsat Rodzina
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105433
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/9eef0fc8228085e5e9b5780619f2870e.png",Polsat Seriale
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105434
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/polsat/polsatplay.png",Polsat Play
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105435
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/6e249520574a41bbba826c364d2cf320.png",Nuta Gold
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105437
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/kuchniaplushd.png",Canal+ Kuchnia
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105438
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/31acab505e73cb9ae49fefed3e2dd6f7.png",StudioMed TV
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105440
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/tvnstylehd.png",TVN Style
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105441
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/tvs.png",TVS
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105444
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/91ab8030e9246ebaec455b89869e7100.png",TVC Polska
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105445
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/tlchd.png",TLC
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105446
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/f2222d7903e9887844a97252645aa13e.png",TBN Polska
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/134088
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/e957dcbbbe591322f649cd96d961d18b.png",TELE 5
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105447
+#EXTINF:-1 ,Novelas+
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/135978
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/9f307ec416908b1a0c6c2693b67adb5e.png",Novela TV
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105448
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/ec451dcdb0bd3c0c363c1211ee732057.png",Polonia 1
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105449
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/72d433544420288f327043443b9cd8dc.png",TVP Polonia
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105450
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/tvpkultura.png",TVP Kultura
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105451
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/tvprozrywka.png",TVP Rozrywka
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105452
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/tvphistoria.png",TVP Historia
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105453
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/fc3ea3367270e2cf8691e88311b66078.png",TVP Dokument
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/134087
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/nowatv.png",Nowa TV
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105455
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/travelchannelhd.png",Travel Channel
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105456
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/hgtv.png",HGTV
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105457
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/25e20053ed7a0b71110207f5481bbe96.png",Home TV
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/120417
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/zoomtv.png",Zoom TV
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105458
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/532e98d4746f65e900916bf78f97c775.png",TV Okazje
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105459
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/TVT.png",TVT
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105519
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/wp1.png",WP
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105460
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/68cac160461e39eab055592a7c795cd7.png",TV Trwam
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105461
+
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/872e5fb8651062c3a86cb667773dc62f.png",Antena
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/151847
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/bbccbeebies.png",BBC CBeebies
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105485
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/nickjr.png",Nick Jr Polska
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105486
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/nickelodeon.png",Nickelodeon
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105487
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/nicktoons.png",NickToons
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105488
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/disneychannelhd.png",Disney Channel
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105489
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/babytv.png",Baby TV
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105490
+#EXTINF:-1  tvg-logo="https://assets.www.warnerbros.com/drupal-root/public/cartoonito_-_logo_-_no_background.png",Cartoonito
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105491
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/cartoonnetworkhd.png",Cartoon Network
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105492
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/disneyjunior.png",Disney Junior
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105493
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/a83dec3009a0b0ba1e484864eddbd654.png",Disney XD
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105494
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/miniminiplushd.png",MiniMini+
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105495
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/tvpabc.png",TVP ABC
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105496
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/jimjam.png",Polsat Jim Jam
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105497
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/ac7f283bca75fdf911c6cf85d4b94a4d.png",TeleTOON+
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105498
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/davincilearning.png",Da Vinci Learning
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105499
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/Top+Kids+HD.png",TOP Kids
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/120419
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/9c0cb7101915944abc187d38c5be754c.png",TeenNick
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/152819
+#EXTINF:-1  tvg-logo="https://epg.ovh/logo/4FUN+KIDS.png",4Fun Kids
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105501
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/4funtv.png",4Fun.TV
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105500
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/4fundance.png",4Fun Dance
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105502
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/discopolomusic.png",Disco Polo Music
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105503
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/eskatv.png",Eska TV
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105504
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/eskatvextra.png",Eska TV Extra
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105505
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/eb15b32b0b69258d92a88c02dcdfae62.png",Eska Rock TV
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105506
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/kinopolskamuzyka.png",Kino Polska Muzyka
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105507
+#EXTINF:-1  tvg-logo="https://1.bp.blogspot.com/-7hVOYAQhdjw/X07zvW_CIOI/AAAAAAAA6TQ/2EW0Kh7AUZA4X3RoOjgUW9_tPaoDgBH0gCLcBGAsYHQ/w410-h71/nick-music-2020.png",NickMusic
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105508
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/0c3b449361ed5fe382319aba9504c1ce.png",MTV Live
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105509
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/mtvpolska.png",MTV Polska
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105510
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/4687cfb021a02cebf31a249689ecc60e.png",MTV 90s
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105511
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/Nuta%20TV.png",NUTA TV
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105512
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/polotv.png",Polo TV
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105513
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/polsatmusichd.png",Polsat Music
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105514
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/c364d6ccebb7748183f33f819a1a9482.png",Power TV
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105515
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/starstv.png",STARS.TV
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105516
+#EXTINF:-1 ,MTV 00s
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105517
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/voxmusictv.png",VOX Music TV
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105518
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/3654b34017508a963ccce2426e91e4cd.png",AMC
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105360
+
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/VOD%205.png",VOD 205
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105549
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/VOD%206.png",VOD 206
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105550
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/VOD%207.png",VOD 207
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105551
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/VOD%208.png",VOD 208
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105552
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/bbcbrit.png",BBC Brit
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105403
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/dtxhd.png",DTX
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105415
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/tvnturbohd.png",TVN Turbo
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105442
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/b6cc47559e49f4d10d8e27b8cb14816e.png",Motowizja
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105443
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/b7f3adca9ad46ea3909336fbb39bca4e.png",Canal+ Sport
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105520
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/e3f46b60378e8f3057b59094ff3b81e7.png",Canal+ Sport 2
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105521
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/canalplussport3hd.png",Canal+ Sport 3
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105522
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/ac7ce164e24691290dc17fd5fb2e8634.png",Canal+ Sport 4
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105523
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/canalplussporthd.png",Canal+ Sport 5
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/153306
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/Canal+%20Now%20HD.png",Canal+ NOW
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105524
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/0205b33d00c33dfc5b63f217616d67be.png",Eleven Sports 1
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105525
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/39afd408825c655f76fac50ec04ba301.png",Eleven Sports 2
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105526
+#EXTINF:-1  tvg-logo="http://fabryka.stream:8880/images/d91d9b739ddf1fd861ffdd1f9be8efc9.png",Eleven Sports 3
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105527
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/7d35169bc5f63f033d3562c4fbcb367e.png",Eleven Sports 4
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105528
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/905d9e9cec50adf2156cec18f26857d4.png",Polsat Sport 1
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105530
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/polsat/polsatsportextra.png",Polsat Sport 3
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105531
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/polsat/polsatsportfight.png",Polsat Sport Fight
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105532
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/polsat/polsatsportnews.png",Polsat Sport 2
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105533
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/polsat/polsatgames.png",Polsat Games
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105534
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/e221f30d81d809132fda8bfe5a1b884e.png",Polsat Sport Premium 1
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105535
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/5eaf859784921ee6f80956b9b66a3a36.png",Polsat Sport Premium 2
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105536
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/af502221e35e7b23823fa933b39d3791.png",Polsat Sport Extra 3
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105537
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/6cfef4132cd6259cdf6a37271a7afb4d.png",Polsat Sport Extra 4
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105538
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/dd022b750eb9dd37aacfce394a27929f.png",Polsat Sport Extra 1
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105539
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/5e451965e5093807801a588b8f104f63.png",Polsat Sport Extra 2
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105540
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/FightKlub%20HD.png",Fightklub
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105541
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/extremesportshd.png",Extreme Sports Channel
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105542
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/sportklub.png",Sportklub
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105543
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/eurosport1hd.png",Eurosport 1
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105544
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/eurosport2hd.png",Eurosport 2
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105545
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/cfc7551ed4b8f7bddab7e7f2ac4eaa03.png",Fightbox
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105546
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/logo/golfchannel.png",Golf Zone
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105547
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/fcf96423f74a741a0fa5f80e4f021f52.png",TVP Sport
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105548
+#EXTINF:-1  tvg-logo="https://e-cho.pl/wp-content/uploads/2021/03/TVP-Kobieta-logo-300x147.png",TVP Kobieta
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/155036
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/c4fdeabe7e79c676a426dfe7c310aa86.jpg",TVP Historia 2
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/155037
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/TVP_ABC_2_-_Logo_od_15_lutego_2022_roku.png",TVP ABC 2
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/155038
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/1ab90f6803db1250be7a5ca62e6ca2ff.png",TVP Nauka
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/155039
+#EXTINF:-1 ,Xtreme TV
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/155040
+#EXTINF:-1 ,BollywooD
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/155041
+#EXTINF:-1 ,FilMax
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/155043
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Player_%28TVN%29.svg/1200px-Player_%28TVN%29.svg.png",TVN Pora na Show
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/170452
+#EXTINF:-1  tvg-logo="https://r-scale-d2.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/9083862/images/55311976?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1",TVN Milionerzy
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/170431
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Player_%28TVN%29.svg/1200px-Player_%28TVN%29.svg.png",TVN Kultowe Seriale
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/170432
+#EXTINF:-1  tvg-logo="https://r-scale-63.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759880/images/55090798?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1",TVN Momenty Prawdy
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/170433
+#EXTINF:-1  tvg-logo="https://r-scale-6b.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759883/images/55089488?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1",TVN Moto
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/170434
+#EXTINF:-1  tvg-logo="https://r-scale-98.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759879/images/55090885?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1",TVN Prawo i Zycie
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/170435
+#EXTINF:-1  tvg-logo="https://r-scale-2d.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759881/images/55090849?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1",TVN Rajska Milosc
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/170436
+#EXTINF:-1  tvg-logo="https://r-scale-72.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759890/images/55090786?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1",TVN Rewolucje W Kuchni
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/170437
+#EXTINF:-1  tvg-logo="https://r-scale-e7.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759888/images/55089743?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1",TVN Seriale O Kobietach
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/170438
+#EXTINF:-1  tvg-logo="https://r-scale-9c.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759893/images/55089326?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1",TVN Szkola Zycia
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/170439
+#EXTINF:-1  tvg-logo="https://r-scale-45.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759892/images/55080443?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1",TVN Szpitalne Historie
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/170440
+#EXTINF:-1  tvg-logo="https://r-scale-49.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759886/images/55089641?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1",TVN Talk Show
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/170441
+#EXTINF:-1  tvg-logo="https://r-scale-0c.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759887/images/55089677?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1",TVN Telenowele
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/170442
+#EXTINF:-1  tvg-logo="https://r-scale-34.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759885/images/55089575?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1",TVN Usterka
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/170443
+#EXTINF:-1  tvg-logo="https://r-scale-fb.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759889/images/55090765?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1",TVN W Domu
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/170444
+#EXTINF:-1  tvg-logo="https://r-scale-eb.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759891/images/55090792?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1",TVN Zycie Jak W Bajce
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/170445
+#EXTINF:-1  tvg-logo="https://r-scale-f5.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759884/images/55089509?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1",TVN Kryminalnie
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/170446
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/89eef7ceb989dfc56eacc65a18753442.jpg",Prime MMA
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/154937
+#EXTINF:-1  tvg-logo="http://fabryka.stream:8880/images/11a577f7dcbb60b053758ff859ee4828.png",FAME MMA
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/152821
+#EXTINF:-1 ,Canal+ EXTRA 1
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/170506
+#EXTINF:-1 ,Canal+ EXTRA 2
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/170507
+#EXTINF:-1 ,Canal+ EXTRA 3
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/170508
+#EXTINF:-1 ,Canal+ EXTRA 4
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/170509
+#EXTINF:-1 ,Canal+ EXTRA 5
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/170510
+#EXTINF:-1 ,Canal+ EXTRA 6
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/170511
+#EXTINF:-1 ,Canal+ EXTRA 7
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/170512
+#EXTINF:-1  tvg-logo="https://epg.ovh/logo/Canal++Live+1.png",Canal+ Event 1
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/170500
+#EXTINF:-1  tvg-logo="https://epg.ovh/logo/Canal++Live+2.png",Canal+ Event 2
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/170501
+#EXTINF:-1  tvg-logo="https://epg.ovh/logo/Canal++Live+2.png",Canal+ Event 3
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/170502
+#EXTINF:-1  tvg-logo="https://epg.ovh/logo/Canal++Live+4.png",Canal+ Event 4
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/170503
+#EXTINF:-1  tvg-logo="https://epg.ovh/logo/Canal++Live+5.png",Canal+ Event 5
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/170504
+#EXTINF:-1  tvg-logo="http://fabryka.stream:8880/images/8f0268b655a8d5d0a2062d4eb3c83b87.png",KSW TV
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/105553
+#EXTINF:-1 ,PPV Event 1 - ( Live Only )
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/170426
+#EXTINF:-1 ,PPV Event 2 - ( Live Only )
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/170505
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/53ea8d78afb4dd057bb7e65ecd0e7150.jpg",Clout MMA
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/154936
+#EXTINF:-1  tvg-logo="http://fabryka.stream:8880/images/5e6325660328b4ec912da0196953b2db.jpg",Gromda
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/154938
+#EXTINF:-1  tvg-logo="http://logo.tvmedia.io/images/2114308fa88c7a0e0add232af2ed6f2b.png",FEN
+http://fabryka.stream:8880/sophiemos/ODA5MjMzNjUx/154939
