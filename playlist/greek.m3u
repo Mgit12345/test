@@ -1,0 +1,839 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/ANT1_Greek_channel_logo.svg.png" group-title="┃GR┃ CINEMA | ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",┃GR┃ ANT 1 COMEDY HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671253&extension=ts&play_token=0oLZhfl1Mw
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/ANT1_Greek_channel_logo.svg.png" group-title="┃GR┃ CINEMA | ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",┃GR┃ ANT 1 DRAMA HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671252&extension=ts&play_token=DxumlFyVy8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/CosmOTECINEMA.png" group-title="┃GR┃ CINEMA | ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",┃GR┃ COSMOTE CINEMA 1 FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671365&extension=ts&play_token=qY2rieSmC6
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/CosmOTECINEMA.png" group-title="┃GR┃ CINEMA | ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",┃GR┃ COSMOTE CINEMA 1 HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671322&extension=ts&play_token=RO1H5YuuD3
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/CosmOTECINEMA.png" group-title="┃GR┃ CINEMA | ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",┃GR┃ COSMOTE CINEMA 2 FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671364&extension=ts&play_token=A8KI37ouqo
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/CosmOTECINEMA.png" group-title="┃GR┃ CINEMA | ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",┃GR┃ COSMOTE CINEMA 2 HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671321&extension=ts&play_token=hLuhqy2kKW
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/CosmOTECINEMA.png" group-title="┃GR┃ CINEMA | ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",┃GR┃ COSMOTE CINEMA 3 FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671363&extension=ts&play_token=SHfbGKtp8S
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/CosmOTECINEMA.png" group-title="┃GR┃ CINEMA | ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",┃GR┃ COSMOTE CINEMA 3 HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671320&extension=ts&play_token=fMMYS4LTv6
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/CosmOTECINEMA.png" group-title="┃GR┃ CINEMA | ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",┃GR┃ COSMOTE SERIES FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671362&extension=ts&play_token=HDPsnDEIE0
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/CosmOTECINEMA.png" group-title="┃GR┃ CINEMA | ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",┃GR┃ COSMOTE SERIES HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671324&extension=ts&play_token=JTP6CMk9wi
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/CosmOTECINEMA.png" group-title="┃GR┃ CINEMA | ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",┃GR┃ COSMOTE SERIES MARATHON FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671361&extension=ts&play_token=xeOsU1X3m7
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/CosmOTECINEMA.png" group-title="┃GR┃ CINEMA | ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",┃GR┃ COSMOTE CINEMA OSCARS HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671326&extension=ts&play_token=jcv817PJqY
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/CosmOTECINEMA.png" group-title="┃GR┃ CINEMA | ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",┃GR┃ VILLAGE CINEMA FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671360&extension=ts&play_token=WzThXPKgGT
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/CosmOTECINEMA.png" group-title="┃GR┃ CINEMA | ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",┃GR┃ VILLAGE CINEMA HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671323&extension=ts&play_token=Kobb8wkxTd
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/CINEMA  ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ/NOVA SUMMER HD.png" group-title="┃GR┃ CINEMA | ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",┃GR┃ NOVA STARS FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=866630&extension=ts&play_token=OsClMgrBsS
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Cinema.png" group-title="┃GR┃ CINEMA | ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",┃GR┃ NOVA CINEMA 1 FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671359&extension=ts&play_token=bBvECnQtoi
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Cinema.png" group-title="┃GR┃ CINEMA | ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",┃GR┃ NOVA CINEMA 1 HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671318&extension=ts&play_token=kNpAwMbVw6
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Cinema.png" group-title="┃GR┃ CINEMA | ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",┃GR┃ NOVA CINEMA 2 FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671358&extension=ts&play_token=AqBhMisLbb
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Cinema.png" group-title="┃GR┃ CINEMA | ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",┃GR┃ NOVA CINEMA 2 HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671317&extension=ts&play_token=SoKXISQcHS
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Cinema.png" group-title="┃GR┃ CINEMA | ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",┃GR┃ NOVA CINEMA 3 FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671357&extension=ts&play_token=pdWmaVv2c6
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Cinema.png" group-title="┃GR┃ CINEMA | ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",┃GR┃ NOVA CINEMA 3 HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671316&extension=ts&play_token=v3jqSZKMjq
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Cinema.png" group-title="┃GR┃ CINEMA | ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",┃GR┃ NOVA CINEMA 4 FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671356&extension=ts&play_token=Fbv2AyR7Rx
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Cinema.png" group-title="┃GR┃ CINEMA | ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",┃GR┃ NOVA CINEMA 4 HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671315&extension=ts&play_token=7HVmgDTqt2
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/CZECHREPUBLIC/FILMY SÉRIE/HBO.png" group-title="┃GR┃ CINEMA | ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",┃GR┃ HBO 1 HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1160541&extension=ts&play_token=yTgkKxmERN
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/CZECHREPUBLIC/FILMY SÉRIE/HBO 2.png" group-title="┃GR┃ CINEMA | ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",┃GR┃ HBO 2 HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1160542&extension=ts&play_token=Z9RvcSTpZB
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/CZECHREPUBLIC/FILMY SÉRIE/HBO 3.png" group-title="┃GR┃ CINEMA | ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",┃GR┃ HBO 3 HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1160543&extension=ts&play_token=hKiLkjnq47
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/CosmOTECINEMA.png" group-title="┃GR┃ CINEMA | ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",┃GR┃ CINE GREEK OLD 1
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=712896&extension=ts&play_token=LdtSIx8bP5
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/CosmOTECINEMA.png" group-title="┃GR┃ CINEMA | ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",┃GR┃ CINE GREEK OLD 2
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=712897&extension=ts&play_token=rZ3BD1TYxU
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/CosmOTECINEMA.png" group-title="┃GR┃ CINEMA | ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",┃GR┃ Στάθης Ψάλτης
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671479&extension=ts&play_token=CgAdqqEGTO
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/TCM_logo.svg.png" group-title="┃GR┃ CINEMA | ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",┃GR┃ TCM 4K
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671354&extension=ts&play_token=mcdd1IXWoK
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/TCM_logo.svg.png" group-title="┃GR┃ CINEMA | ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",┃GR┃ TCM HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671313&extension=ts&play_token=czSrM8Hhww
+#EXTINF:-1 tvg-logo="" group-title="┃GR┃ COSMOTE SPORTS",┃GR┃ COSMOTE SPORT 4K
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1648352&extension=ts&play_token=XW8GFflH0z
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png" group-title="┃GR┃ COSMOTE SPORTS",┃GR┃ COSMOTE SPORT HIGHLIGHTS FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1891&extension=ts&play_token=n6plkLK6al
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png" group-title="┃GR┃ COSMOTE SPORTS",┃GR┃ COSMOTE SPORT HIGHLIGHTS HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671498&extension=ts&play_token=7r8Lf74ZF8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png" group-title="┃GR┃ COSMOTE SPORTS",┃GR┃ COSMOTE SPORT 1 FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=174426&extension=ts&play_token=fPpLRHLogt
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png" group-title="┃GR┃ COSMOTE SPORTS",┃GR┃ COSMOTE SPORT 1 HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1890&extension=ts&play_token=rwVMQGj9uW
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png" group-title="┃GR┃ COSMOTE SPORTS",┃GR┃ COSMOTE SPORT 1 SD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671508&extension=ts&play_token=tCTs2Fn6Gq
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png" group-title="┃GR┃ COSMOTE SPORTS",┃GR┃ COSMOTE SPORT 2 FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=174427&extension=ts&play_token=2kdrDsfJxE
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png" group-title="┃GR┃ COSMOTE SPORTS",┃GR┃ COSMOTE SPORT 2 HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1889&extension=ts&play_token=W0twOTO45u
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png" group-title="┃GR┃ COSMOTE SPORTS",┃GR┃ COSMOTE SPORT 2 SD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671509&extension=ts&play_token=1mIEIdee3C
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png" group-title="┃GR┃ COSMOTE SPORTS",┃GR┃ COSMOTE SPORT 3 FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=174428&extension=ts&play_token=aoibjgkttY
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png" group-title="┃GR┃ COSMOTE SPORTS",┃GR┃ COSMOTE SPORT 3 HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1888&extension=ts&play_token=jbONESy2ae
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png" group-title="┃GR┃ COSMOTE SPORTS",┃GR┃ COSMOTE SPORT 3 SD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671510&extension=ts&play_token=ekLUigKuC4
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png" group-title="┃GR┃ COSMOTE SPORTS",┃GR┃ COSMOTE SPORT 4 FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=174429&extension=ts&play_token=9z6lnIdeAU
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png" group-title="┃GR┃ COSMOTE SPORTS",┃GR┃ COSMOTE SPORT 4 HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1887&extension=ts&play_token=f1Vtfd4KxD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png" group-title="┃GR┃ COSMOTE SPORTS",┃GR┃ COSMOTE SPORT 4 SD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671511&extension=ts&play_token=BTKoEq9bEu
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png" group-title="┃GR┃ COSMOTE SPORTS",┃GR┃ COSMOTE SPORT 5 FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=174430&extension=ts&play_token=jUJKuzDC3r
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png" group-title="┃GR┃ COSMOTE SPORTS",┃GR┃ COSMOTE SPORT 5 HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1886&extension=ts&play_token=nVdAyvPBNx
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png" group-title="┃GR┃ COSMOTE SPORTS",┃GR┃ COSMOTE SPORT 5 SD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671512&extension=ts&play_token=hrwcP71nwr
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png" group-title="┃GR┃ COSMOTE SPORTS",┃GR┃ COSMOTE SPORT 6 FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=174265&extension=ts&play_token=wih3qccwJ7
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png" group-title="┃GR┃ COSMOTE SPORTS",┃GR┃ COSMOTE SPORT 6 HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1885&extension=ts&play_token=22iSmtMluz
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png" group-title="┃GR┃ COSMOTE SPORTS",┃GR┃ COSMOTE SPORT 6 SD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671513&extension=ts&play_token=E6skMfULgk
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png" group-title="┃GR┃ COSMOTE SPORTS",┃GR┃ COSMOTE SPORT 7 FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=174264&extension=ts&play_token=i34QmU18l2
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png" group-title="┃GR┃ COSMOTE SPORTS",┃GR┃ COSMOTE SPORT 7 HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1884&extension=ts&play_token=zzwZsV3Ppw
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png" group-title="┃GR┃ COSMOTE SPORTS",┃GR┃ COSMOTE SPORT 8 FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=174263&extension=ts&play_token=dDTzjIe525
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png" group-title="┃GR┃ COSMOTE SPORTS",┃GR┃ COSMOTE SPORT 8 HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1883&extension=ts&play_token=k7Yh3Tqn7Y
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png" group-title="┃GR┃ COSMOTE SPORTS",┃GR┃ COSMOTE SPORT 9 FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1882&extension=ts&play_token=dB6OsnZpRD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png" group-title="┃GR┃ COSMOTE SPORTS",┃GR┃ COSMOTE SPORT 9 HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671507&extension=ts&play_token=Y9PY7oOc3m
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Olympiacos_FC_logo.svg.png" group-title="┃GR┃ COSMOTE SPORTS",┃GR┃ COSMOTE SPORT SL PASS PANATHINAIKOS FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=699599&extension=ts&play_token=Pp8lHpwLI1
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Panathinaikos_F.C._logo.png" group-title="┃GR┃ COSMOTE SPORTS",┃GR┃ COSMOTE SPORT SL PANATHINAIKOS PASS HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=242084&extension=ts&play_token=AIqjadrU3H
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Olympiacos_FC_logo.svg.png" group-title="┃GR┃ COSMOTE SPORTS",┃GR┃ COSMOTE SPORT SL PASS OLYMPIAKOS FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=699598&extension=ts&play_token=LRahOwqy6Y
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Olympiacos_FC_logo.svg.png" group-title="┃GR┃ COSMOTE SPORTS",┃GR┃ COSMOTE SPORT SL PASS OLYMPIAKOS HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=242085&extension=ts&play_token=GVENXHZ7PM
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Olympiacos_FC_logo.svg.png" group-title="┃GR┃ COSMOTE SPORTS",┃GR┃ COSMOTE SPORT SL PASS AEK FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=699597&extension=ts&play_token=dCoWXnbPd8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/AEKPASS.png" group-title="┃GR┃ COSMOTE SPORTS",┃GR┃ COSMOTE SPORT SL PASS AEK HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=242086&extension=ts&play_token=X5FpFKOOQF
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NATIONALGEOGRAPHIC.png" group-title="┃GR┃ DOCUMENTARY | ΝΤΟΚΥΜΑΝΤΕΡ",┃GR┃ NAT GEO FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671283&extension=ts&play_token=mHSF9KurfR
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NGWILDHD.png" group-title="┃GR┃ DOCUMENTARY | ΝΤΟΚΥΜΑΝΤΕΡ",┃GR┃ NAT GEO WILD FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671282&extension=ts&play_token=DETzhu8Kej
+#EXTINF:-1 tvg-logo="" group-title="┃GR┃ DOCUMENTARY | ΝΤΟΚΥΜΑΝΤΕΡ",┃GR┃ DISCOVERY HISTORY FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1461621&extension=ts&play_token=S6XJq5d4Qt
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/DISCOVERYCHANNEL.png" group-title="┃GR┃ DOCUMENTARY | ΝΤΟΚΥΜΑΝΤΕΡ",┃GR┃ DISCOVERY CHANNEL FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671281&extension=ts&play_token=ZTbJbjVFvq
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Investigation_Discovery.png" group-title="┃GR┃ DOCUMENTARY | ΝΤΟΚΥΜΑΝΤΕΡ",┃GR┃ DISCOVERY ID FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671279&extension=ts&play_token=KOf0gY2Vcz
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Crime_+_Investigation_Logo_10.2019.png" group-title="┃GR┃ DOCUMENTARY | ΝΤΟΚΥΜΑΝΤΕΡ",┃GR┃ CRIME+ INVESTIGATION SD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671277&extension=ts&play_token=n4A9Lqp7GZ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/History-Channel-logo.png" group-title="┃GR┃ DOCUMENTARY | ΝΤΟΚΥΜΑΝΤΕΡ",┃GR┃ HISTORY FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671287&extension=ts&play_token=XlkoEVNYqw
+#EXTINF:-1 tvg-logo="" group-title="┃GR┃ DOCUMENTARY | ΝΤΟΚΥΜΑΝΤΕΡ",┃GR┃ HISTORY 2 FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1461620&extension=ts&play_token=3YHjz0Jj1m
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ANIMALPLANETHD.png" group-title="┃GR┃ DOCUMENTARY | ΝΤΟΚΥΜΑΝΤΕΡ",┃GR┃ ANIMAL PLANET FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671276&extension=ts&play_token=ElLgu2MGHQ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png" group-title="┃GR┃ DOCUMENTARY | ΝΤΟΚΥΜΑΝΤΕΡ",┃GR┃ COSMOTE HISTORY HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671275&extension=ts&play_token=1eYO79UU3G
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Viasat_Nature.png" group-title="┃GR┃ DOCUMENTARY | ΝΤΟΚΥΜΑΝΤΕΡ",┃GR┃ VIASAT NATURE FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671274&extension=ts&play_token=HFltzYzX1l
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Viasat_History.png" group-title="┃GR┃ DOCUMENTARY | ΝΤΟΚΥΜΑΝΤΕΡ",┃GR┃ VIASAT HISTORY FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671273&extension=ts&play_token=eqETkeJN4r
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/VIASATEXPLORE.png" group-title="┃GR┃ DOCUMENTARY | ΝΤΟΚΥΜΑΝΤΕΡ",┃GR┃ VIASAT EXPLORE FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671272&extension=ts&play_token=LIixed3Iv5
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/BBCEARTH.png" group-title="┃GR┃ DOCUMENTARY | ΝΤΟΚΥΜΑΝΤΕΡ",┃GR┃ BBC EARTH FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671271&extension=ts&play_token=1IocwPvHlK
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/MYZENTV.png" group-title="┃GR┃ DOCUMENTARY | ΝΤΟΚΥΜΑΝΤΕΡ",┃GR┃ MY ZEN TV HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671312&extension=ts&play_token=weRNnFJQnd
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/CARIBBEAN/FX.png" group-title="┃GR┃ ENTERTAINMENT | ΨΥΧΑΓΩΓΙΚΑ",┃GR┃ FX FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671240&extension=ts&play_token=B29cdlPslf
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/CARIBBEAN/FX.png" group-title="┃GR┃ ENTERTAINMENT | ΨΥΧΑΓΩΓΙΚΑ",┃GR┃ FX LIFE HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671239&extension=ts&play_token=ElC3wrF4Ig
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/e-entertainment-television-llc-logo-vector.png" group-title="┃GR┃ ENTERTAINMENT | ΨΥΧΑΓΩΓΙΚΑ",┃GR┃ E! ENTERTAINMENT FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671238&extension=ts&play_token=ah8QOtMmnX
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Nova-life.png" group-title="┃GR┃ ENTERTAINMENT | ΨΥΧΑΓΩΓΙΚΑ",┃GR┃ NOVA LIFE FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671314&extension=ts&play_token=oyXrePXkTK
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/640px-Epic-Drama.png" group-title="┃GR┃ ENTERTAINMENT | ΨΥΧΑΓΩΓΙΚΑ",┃GR┃ EPIC DRAMA FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=699929&extension=ts&play_token=iwigs7E4lo
+#EXTINF:-1 tvg-logo="" group-title="┃GR┃ ENTERTAINMENT | ΨΥΧΑΓΩΓΙΚΑ",┃GR┃ HGTV HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1461625&extension=ts&play_token=KtyN7ApfLi
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/gr-action-24-6530.png" group-title="┃GR┃ ENTERTAINMENT | ΨΥΧΑΓΩΓΙΚΑ",┃GR┃ ACTION 24 FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671241&extension=ts&play_token=41Cmlwutww
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/TLCHD.png" group-title="┃GR┃ ENTERTAINMENT | ΨΥΧΑΓΩΓΙΚΑ",┃GR┃ TLC FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=699931&extension=ts&play_token=Jvha3iLy9m
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/GR ENTERTAINMENT/INPLUS.png" group-title="┃GR┃ ENTERTAINMENT | ΨΥΧΑΓΩΓΙΚΑ",┃GR┃ INPLUS FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=699932&extension=ts&play_token=Vwug2kX9eI
+#EXTINF:-1 tvg-logo="" group-title="┃GR┃ ENTERTAINMENT | ΨΥΧΑΓΩΓΙΚΑ",┃GR┃ VILLAGE WORLD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1187270&extension=ts&play_token=eEB2ezGQiJ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Nautical_Channel_29.png" group-title="┃GR┃ ENTERTAINMENT | ΨΥΧΑΓΩΓΙΚΑ",┃GR┃ NAUTICAL CHANNEL FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671286&extension=ts&play_token=34XAs2MIrI
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Food_Network_logo.png" group-title="┃GR┃ ENTERTAINMENT | ΨΥΧΑΓΩΓΙΚΑ",┃GR┃ FOOD NETWORK FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671285&extension=ts&play_token=5aFrnYGxFL
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Travel_Channel_HD.png" group-title="┃GR┃ ENTERTAINMENT | ΨΥΧΑΓΩΓΙΚΑ",┃GR┃ TRAVEL CHANNEL FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671284&extension=ts&play_token=kWO5g3hXdu
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/TILEMOUSIKI.png" group-title="┃GR┃ ENTERTAINMENT | ΨΥΧΑΓΩΓΙΚΑ",┃GR┃ NR1 HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=724023&extension=ts&play_token=w7P5LhIDAh
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/GR ENTERTAINMENT/MAD WORLD.png" group-title="┃GR┃ ENTERTAINMENT | ΨΥΧΑΓΩΓΙΚΑ",┃GR┃ MAD WORLD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1110861&extension=ts&play_token=6wz7uuhyYj
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/MAD-TV_220220.png" group-title="┃GR┃ ENTERTAINMENT | ΨΥΧΑΓΩΓΙΚΑ",┃GR┃ MAD GREEKZ HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671270&extension=ts&play_token=3uEbvb77GB
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/MAD-VIRAL-Logo.png" group-title="┃GR┃ ENTERTAINMENT | ΨΥΧΑΓΩΓΙΚΑ",┃GR┃ MAD VIRAL HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671269&extension=ts&play_token=DvTU6nmKor
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/CYPRUS/madtv.png" group-title="┃GR┃ ENTERTAINMENT | ΨΥΧΑΓΩΓΙΚΑ",┃GR┃ MAD TV HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=724038&extension=ts&play_token=25rsoi6ThX
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/GR ENTERTAINMENT/PANIK TV.png" group-title="┃GR┃ ENTERTAINMENT | ΨΥΧΑΓΩΓΙΚΑ",┃GR┃ PANIK TV HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=866634&extension=ts&play_token=MFVK74Xi1y
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/GR ENTERTAINMENT/JUST MUSIC.png" group-title="┃GR┃ ENTERTAINMENT | ΨΥΧΑΓΩΓΙΚΑ",┃GR┃ JUST MUSIC HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=866633&extension=ts&play_token=MqRWDwWorn
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃GR┃ ENTERTAINMENT | ΨΥΧΑΓΩΓΙΚΑ",┃GR┃ ZONE+ MUSIC RAP
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=848515&extension=ts&play_token=fmOiprptbl
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃GR┃ ENTERTAINMENT | ΨΥΧΑΓΩΓΙΚΑ",┃GR┃ ZONE+ MUSIC MIX
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=848514&extension=ts&play_token=TzsBvL6YyD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃GR┃ ENTERTAINMENT | ΨΥΧΑΓΩΓΙΚΑ",┃GR┃ ZONE+ MUSIC HOUSE
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=848513&extension=ts&play_token=VeJy00Kw5y
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/2560px-EPT1_logo_(2015).svg.png" group-title="┃GR┃ GENERAL | ΓΕΝΙΚΑ",┃GR┃ EPT 1 FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=670952&extension=ts&play_token=HhMiPpNT0L
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/2560px-EPT1_logo_(2015).svg.png" group-title="┃GR┃ GENERAL | ΓΕΝΙΚΑ",┃GR┃ EPT 1 HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671261&extension=ts&play_token=mcKKh4B27d
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/2560px-EPT1_logo_(2015).svg.png" group-title="┃GR┃ GENERAL | ΓΕΝΙΚΑ",┃GR┃ EPT 1 SD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671405&extension=ts&play_token=Uj0tTQ7v2K
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/2560px-EPT2_logo_(2015).svg.png" group-title="┃GR┃ GENERAL | ΓΕΝΙΚΑ",┃GR┃ EPT 2 FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671353&extension=ts&play_token=3TUayh1oEv
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/2560px-EPT2_logo_(2015).svg.png" group-title="┃GR┃ GENERAL | ΓΕΝΙΚΑ",┃GR┃ EPT 2 HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671260&extension=ts&play_token=48ISweY3Fp
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/2560px-EPT2_logo_(2015).svg.png" group-title="┃GR┃ GENERAL | ΓΕΝΙΚΑ",┃GR┃ EPT 2 SD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671406&extension=ts&play_token=YZPRDOdGTf
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/EPT3.png" group-title="┃GR┃ GENERAL | ΓΕΝΙΚΑ",┃GR┃ EPT 3 FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671352&extension=ts&play_token=evaZAn6eSO
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/EPT3.png" group-title="┃GR┃ GENERAL | ΓΕΝΙΚΑ",┃GR┃ EPT 3 HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671259&extension=ts&play_token=Obn9Biw6S1
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/EPT3.png" group-title="┃GR┃ GENERAL | ΓΕΝΙΚΑ",┃GR┃ EPT 3 SD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671407&extension=ts&play_token=cOXZrfYVVv
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/EPTNEWS.png" group-title="┃GR┃ GENERAL | ΓΕΝΙΚΑ",┃GR┃ EPT NEWS FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671351&extension=ts&play_token=EXVC7utW6p
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/EPTNEWS.png" group-title="┃GR┃ GENERAL | ΓΕΝΙΚΑ",┃GR┃ EPT NEWS SD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=699595&extension=ts&play_token=Hkr5zB3ZGG
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/ERT_World.png" group-title="┃GR┃ GENERAL | ΓΕΝΙΚΑ",┃GR┃ EPT WORLD FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671349&extension=ts&play_token=aRIYLAsc0v
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/ANT1+.png" group-title="┃GR┃ GENERAL | ΓΕΝΙΚΑ",┃GR┃ ANT 1 FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=194797&extension=ts&play_token=Yc3VTH9ajF
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/ANT1_Greek_channel_logo.svg.png" group-title="┃GR┃ GENERAL | ΓΕΝΙΚΑ",┃GR┃ ANT 1 HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671255&extension=ts&play_token=1fStXIrv7o
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/ANT1_Greek_channel_logo.svg.png" group-title="┃GR┃ GENERAL | ΓΕΝΙΚΑ",┃GR┃ ANT 1 SD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671408&extension=ts&play_token=vlSTTI9QFI
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Alpha_HD.png" group-title="┃GR┃ GENERAL | ΓΕΝΙΚΑ",┃GR┃ ALPHA FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=194714&extension=ts&play_token=arlHZuK6A1
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Alpha_HD.png" group-title="┃GR┃ GENERAL | ΓΕΝΙΚΑ",┃GR┃ ALPHA HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671251&extension=ts&play_token=Apt6sR4vfL
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Alpha_HD.png" group-title="┃GR┃ GENERAL | ΓΕΝΙΚΑ",┃GR┃ ALPHA SD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671409&extension=ts&play_token=dYIE4IPVvB
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Star-tv_greece.png" group-title="┃GR┃ GENERAL | ΓΕΝΙΚΑ",┃GR┃ STAR FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671348&extension=ts&play_token=QxGIAoiwNz
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Star-tv_greece.png" group-title="┃GR┃ GENERAL | ΓΕΝΙΚΑ",┃GR┃ STAR HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671249&extension=ts&play_token=NciJQ5Ltnd
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Star-tv_greece.png" group-title="┃GR┃ GENERAL | ΓΕΝΙΚΑ",┃GR┃ STAR SD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671410&extension=ts&play_token=2FZKMPjVc6
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Skai_TV_logo.svg.png" group-title="┃GR┃ GENERAL | ΓΕΝΙΚΑ",┃GR┃ SKAI FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=194715&extension=ts&play_token=YwFBDh26Q2
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Skai_TV_logo.svg.png" group-title="┃GR┃ GENERAL | ΓΕΝΙΚΑ",┃GR┃ SKAI HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671248&extension=ts&play_token=ZQXOwifBXI
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Skai_TV_logo.svg.png" group-title="┃GR┃ GENERAL | ΓΕΝΙΚΑ",┃GR┃ SKAI SD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671411&extension=ts&play_token=BIAynyskRl
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/mega.png" group-title="┃GR┃ GENERAL | ΓΕΝΙΚΑ",┃GR┃ MEGA FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671347&extension=ts&play_token=mdIp6NYpzf
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/mega.png" group-title="┃GR┃ GENERAL | ΓΕΝΙΚΑ",┃GR┃ MEGA HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671247&extension=ts&play_token=APZJLcMnk8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/mega.png" group-title="┃GR┃ GENERAL | ΓΕΝΙΚΑ",┃GR┃ MEGA SD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671412&extension=ts&play_token=6twjblXKak
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Open_Beyond_29.png" group-title="┃GR┃ GENERAL | ΓΕΝΙΚΑ",┃GR┃ OPEN BEYOND FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671346&extension=ts&play_token=UaQDN7Q2kE
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Open_Beyond_29.png" group-title="┃GR┃ GENERAL | ΓΕΝΙΚΑ",┃GR┃ OPEN BEYOND HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671246&extension=ts&play_token=Z8CfysXlDE
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Open_Beyond_29.png" group-title="┃GR┃ GENERAL | ΓΕΝΙΚΑ",┃GR┃ OPEN BEYOND SD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671413&extension=ts&play_token=DL9VQZJQOk
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/MAKEDONIA.png" group-title="┃GR┃ GENERAL | ΓΕΝΙΚΑ",┃GR┃ MAKEDONIA TV FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671345&extension=ts&play_token=w2OQXGB9D2
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/MAKEDONIA.png" group-title="┃GR┃ GENERAL | ΓΕΝΙΚΑ",┃GR┃ MAKEDONIA TV HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671245&extension=ts&play_token=Sz3cMTEpgy
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/MAKEDONIA.png" group-title="┃GR┃ GENERAL | ΓΕΝΙΚΑ",┃GR┃ MAKEDONIA TV SD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671414&extension=ts&play_token=11ucbpYJGg
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/mega.png" group-title="┃GR┃ GENERAL | ΓΕΝΙΚΑ",┃GR┃ MEGA NEWS HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1161477&extension=ts&play_token=wM5Q9l3M7q
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/EURONEWS.png" group-title="┃GR┃ GENERAL | ΓΕΝΙΚΑ",┃GR┃ EURONEWS GREEK HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671244&extension=ts&play_token=4ijCYYt8P0
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/GENERAL  ΓΕΝΙΚΑ/ΒΟΥΛΗ ΤV 4K.png" group-title="┃GR┃ GENERAL | ΓΕΝΙΚΑ",┃GR┃ ΒΟΥΛΗ ΤV 4K
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=699593&extension=ts&play_token=YTpxSnI1Ie
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Boomerang_2014_logo.svg.png" group-title="┃GR┃ KIDS | ΠΑΙΔΙΚΑ",┃GR┃ CARTOONITO FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=724036&extension=ts&play_token=nIRFeWNrAN
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Disney_Channel_2022.png" group-title="┃GR┃ KIDS | ΠΑΙΔΙΚΑ",┃GR┃ DISNEY CHANNEL SD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671268&extension=ts&play_token=Q8APdtsPBO
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Disney_Junior_Logo_2020.png" group-title="┃GR┃ KIDS | ΠΑΙΔΙΚΑ",┃GR┃ DISNEY JUNIOR SD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671267&extension=ts&play_token=uJtp3Y1TPo
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/nickelodeon-logo.png" group-title="┃GR┃ KIDS | ΠΑΙΔΙΚΑ",┃GR┃ KEEDOO SD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671266&extension=ts&play_token=7dyle52IgV
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/BabyTV.png" group-title="┃GR┃ KIDS | ΠΑΙΔΙΚΑ",┃GR┃ BABY TV SD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671265&extension=ts&play_token=RCZB35eNaU
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/DUCKTVHD.png" group-title="┃GR┃ KIDS | ΠΑΙΔΙΚΑ",┃GR┃ DUCK TV SD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=699930&extension=ts&play_token=pudDbn5wpz
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/SMILE.png" group-title="┃GR┃ KIDS | ΠΑΙΔΙΚΑ",┃GR┃ SMILE SD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671288&extension=ts&play_token=NgItE9AJqu
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/KIDS  ΠΑΙAΙΚΑ/IDJ KIDS HD.png" group-title="┃GR┃ KIDS | ΠΑΙΔΙΚΑ",┃GR┃ IDJ KIDS HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=866629&extension=ts&play_token=ii3cbeKpeR
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/KIDS  ΠΑΙAΙΚΑ/ERT KIDS HD.png" group-title="┃GR┃ KIDS | ΠΑΙΔΙΚΑ",┃GR┃ ERT KIDS FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=779489&extension=ts&play_token=WaPdElW6ZT
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/CosmOTECINEMA.png" group-title="┃GR┃ KIDS | ΠΑΙΔΙΚΑ",┃GR┃ CINE KIDS 2
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=712898&extension=ts&play_token=IENDtgfUm6
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/CosmOTECINEMA.png" group-title="┃GR┃ KIDS | ΠΑΙΔΙΚΑ",┃GR┃ CINE KIDS 3
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=712899&extension=ts&play_token=n6qgK0XIcW
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/KIDS  ΠΑΙAΙΚΑ/DA VINCI HD.png" group-title="┃GR┃ KIDS | ΠΑΙΔΙΚΑ",┃GR┃ DA VINCI HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=866628&extension=ts&play_token=Y9uYetqDE0
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃GR┃ KIDS | ΠΑΙΔΙΚΑ",┃GR┃ ZONE+ KIDS BARBIE
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=849333&extension=ts&play_token=5HvKdTdddm
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃GR┃ KIDS | ΠΑΙΔΙΚΑ",┃GR┃ ZONE+ KIDS CARS ON THE ROAD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=848506&extension=ts&play_token=9nOeTZUqn6
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃GR┃ KIDS | ΠΑΙΔΙΚΑ",┃GR┃ ZONE+ KIDS COCOMELON
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=848508&extension=ts&play_token=xsNy6bx8ut
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃GR┃ KIDS | ΠΑΙΔΙΚΑ",┃GR┃ ZONE+ KIDS DISNEY
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=848509&extension=ts&play_token=o4wOTbmi8Q
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃GR┃ KIDS | ΠΑΙΔΙΚΑ",┃GR┃ ZONE+ KIDS GO DOG GO!
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=848510&extension=ts&play_token=Vc8kKLtEU8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃GR┃ KIDS | ΠΑΙΔΙΚΑ",┃GR┃ ZONE+ KIDS HOTEL TRANSYLVANIA
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=848511&extension=ts&play_token=gJ7A2HCR6c
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃GR┃ KIDS | ΠΑΙΔΙΚΑ",┃GR┃ ZONE+ KIDS ICE AGE
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=849332&extension=ts&play_token=dw8i8VNL8y
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃GR┃ KIDS | ΠΑΙΔΙΚΑ",┃GR┃ ZONE+ KIDS KIYA & KIMOJA HEROES
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=848854&extension=ts&play_token=GP0gGKF3Vz
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃GR┃ KIDS | ΠΑΙΔΙΚΑ",┃GR┃ ZONE+ KIDS KUNG FU PANDA
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=848512&extension=ts&play_token=2nxfzjOL7b
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃GR┃ KIDS | ΠΑΙΔΙΚΑ",┃GR┃ ZONE+ KIDS MARVELS
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=848856&extension=ts&play_token=GuBLmVI0TH
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃GR┃ KIDS | ΠΑΙΔΙΚΑ",┃GR┃ ZONE+ KIDS POWERPUFF GIRLS
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=848857&extension=ts&play_token=TlddZZSRMr
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃GR┃ KIDS | ΠΑΙΔΙΚΑ",┃GR┃ ZONE+ KIDS SMURFS
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=848858&extension=ts&play_token=o2rLt7K5XK
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃GR┃ KIDS | ΠΑΙΔΙΚΑ",┃GR┃ ZONE+ KIDS UNICORN ACADEMY
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=848859&extension=ts&play_token=dcmKrm6eAf
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃GR┃ KIDS | ΠΑΙΔΙΚΑ",┃GR┃ ZONE+ KIDS ZOOTROPOLIS
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=849331&extension=ts&play_token=yvtjVxCpuB
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃GR┃ KIDS | ΠΑΙΔΙΚΑ",┃GR┃ ZONE+ KIDS Ο ΤΡΙΓΩΝΟΨΑΡΟΎΛΗΣ ΣΕ ΘΑΛΑΣΣΟΠΕΡΙΠΈΤΕΙΕΣ
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=848860&extension=ts&play_token=jn35Ab1U5w
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Start_TV.png" group-title="┃GR┃ LOCAL | ΠΕΡΙΦΕΡΕΙΑΚΑ",┃GR┃ STAR Κεντρικής Ελλάδας
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=697959&extension=ts&play_token=aOhAmyjKg5
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/CRETATV.png" group-title="┃GR┃ LOCAL | ΠΕΡΙΦΕΡΕΙΑΚΑ",┃GR┃ CRETA TV 4K
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671343&extension=ts&play_token=a2g4DFQZ9a
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/CRETATV.png" group-title="┃GR┃ LOCAL | ΠΕΡΙΦΕΡΕΙΑΚΑ",┃GR┃ CRETA TV HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671243&extension=ts&play_token=78Mafolrqb
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/%CE%9A%CF%81%CE%AE%CF%84%CE%B7TV.png" group-title="┃GR┃ LOCAL | ΠΕΡΙΦΕΡΕΙΑΚΑ",┃GR┃ Κρήτη TV [Kriti TV]
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671329&extension=ts&play_token=T8gGkqET8B
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Kontra.png" group-title="┃GR┃ LOCAL | ΠΕΡΙΦΕΡΕΙΑΚΑ",┃GR┃ KONTRA TV HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671242&extension=ts&play_token=o3CjysVLN9
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/ONE.png" group-title="┃GR┃ LOCAL | ΠΕΡΙΦΕΡΕΙΑΚΑ",┃GR┃ ONE HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671237&extension=ts&play_token=o7wL4njEMh
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/IONIAN-TV.png" group-title="┃GR┃ LOCAL | ΠΕΡΙΦΕΡΕΙΑΚΑ",┃GR┃ IONIAN TV HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671310&extension=ts&play_token=yJamsOwhmG
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/TV100_logo.png" group-title="┃GR┃ LOCAL | ΠΕΡΙΦΕΡΕΙΑΚΑ",┃GR┃ TV 100 HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671308&extension=ts&play_token=LswjkW9IQd
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Start_TV.png" group-title="┃GR┃ LOCAL | ΠΕΡΙΦΕΡΕΙΑΚΑ",┃GR┃ START TV
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671302&extension=ts&play_token=VR9Q2yZJZf
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/HIGHTV.png" group-title="┃GR┃ LOCAL | ΠΕΡΙΦΕΡΕΙΑΚΑ",┃GR┃ HIGH TV
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671301&extension=ts&play_token=Mz5G0sB5Nj
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/4E_TV_logo.png" group-title="┃GR┃ LOCAL | ΠΕΡΙΦΕΡΕΙΑΚΑ",┃GR┃ 4E TV
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671300&extension=ts&play_token=YQjFOqjW5J
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/ALERTTV.png" group-title="┃GR┃ LOCAL | ΠΕΡΙΦΕΡΕΙΑΚΑ",┃GR┃ ALERT TV
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671299&extension=ts&play_token=a0qLCCy48i
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/BLUESKY.png" group-title="┃GR┃ LOCAL | ΠΕΡΙΦΕΡΕΙΑΚΑ",┃GR┃ BLUE SKY
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671294&extension=ts&play_token=oNciaKAi5f
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Capital_tv.png" group-title="┃GR┃ LOCAL | ΠΕΡΙΦΕΡΕΙΑΚΑ",┃GR┃ CAPITAL TV
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671293&extension=ts&play_token=SAE49T0B6m
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NEATV.png" group-title="┃GR┃ LOCAL | ΠΕΡΙΦΕΡΕΙΑΚΑ",┃GR┃ NEA TV
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=671289&extension=ts&play_token=MXbKEmwSnY
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NEATV.png" group-title="┃GR┃ LOCAL | ΠΕΡΙΦΕΡΕΙΑΚΑ",┃GR┃ CORFU TV
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=728834&extension=ts&play_token=aHQbByabG8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NEATV.png" group-title="┃GR┃ LOCAL | ΠΕΡΙΦΕΡΕΙΑΚΑ",┃GR┃ DELTA TV
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=728833&extension=ts&play_token=PX2hmA3GLL
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NEATV.png" group-title="┃GR┃ LOCAL | ΠΕΡΙΦΕΡΕΙΑΚΑ",┃GR┃ EPILOGES TV
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=728824&extension=ts&play_token=tddZoWozzS
+#EXTINF:-1 tvg-logo="" group-title="┃GR┃ LOCAL | ΠΕΡΙΦΕΡΕΙΑΚΑ",┃GR┃ DION TV - THESSOLINIKI
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1187271&extension=ts&play_token=QcGgLjwXMu
+#EXTINF:-1 tvg-logo="" group-title="┃GR┃ LOCAL | ΠΕΡΙΦΕΡΕΙΑΚΑ",┃GR┃ PONTOS TV
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1701403&extension=ts&play_token=uDa4dq6bkq
+#EXTINF:-1 tvg-logo="" group-title="┃GR┃ LOCAL | ΠΕΡΙΦΕΡΕΙΑΚΑ",┃GR┃ BEST TV HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1701402&extension=ts&play_token=fvf01yxqfv
+#EXTINF:-1 tvg-logo="" group-title="┃GR┃ LOCAL | ΠΕΡΙΦΕΡΕΙΑΚΑ",┃GR┃ SYROS TV HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1701401&extension=ts&play_token=mwDNv6vFSW
+#EXTINF:-1 tvg-logo="" group-title="┃GR┃ LOCAL | ΠΕΡΙΦΕΡΕΙΑΚΑ",┃GR┃ IONIAN TVloc
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1701405&extension=ts&play_token=3ewaxYPhDc
+#EXTINF:-1 tvg-logo="" group-title="┃GR┃ LOCAL | ΠΕΡΙΦΕΡΕΙΑΚΑ",┃GR┃ EPIRUS TV HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1701399&extension=ts&play_token=JykAQeqWfR
+#EXTINF:-1 tvg-logo="" group-title="┃GR┃ LOCAL | ΠΕΡΙΦΕΡΕΙΑΚΑ",┃GR┃ NAFTEMPORIKI HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1701404&extension=ts&play_token=WGCISr3pxE
+#EXTINF:-1 tvg-logo="" group-title="┃GR┃ LOCAL | ΠΕΡΙΦΕΡΕΙΑΚΑ",┃GR┃ THRAKINET HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1701400&extension=ts&play_token=vJ90qa1nGH
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Sports_News_V2021.png" group-title="┃GR┃ NOVA SPORTS",┃GR┃ NOVA SPORTS NEWS FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1880&extension=ts&play_token=6F73yAGV0r
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Sports_News_V2021.png" group-title="┃GR┃ NOVA SPORTS",┃GR┃ NOVA SPORT NEWS HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=174431&extension=ts&play_token=rc5bp2KmKx
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Sports_Prime_V2021.png" group-title="┃GR┃ NOVA SPORTS",┃GR┃ NOVA SPORTS PRIME FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1142146&extension=ts&play_token=lCA68zvcH2
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Sports_Prime_V2021.png" group-title="┃GR┃ NOVA SPORTS",┃GR┃ NOVA SPORTS PRIME HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1874&extension=ts&play_token=6xnECCHUMo
+#EXTINF:-1 tvg-logo="" group-title="┃GR┃ NOVA SPORTS",┃GR┃ NOVA SPORTS PRIME SD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1648351&extension=ts&play_token=5E3I2BeEVx
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVASPORTSSTART.png" group-title="┃GR┃ NOVA SPORTS",┃GR┃ NOVA SPORTS START FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=56829&extension=ts&play_token=mgHHYmZNiX
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVASPORTSSTART.png" group-title="┃GR┃ NOVA SPORTS",┃GR┃ NOVA SPORTS START HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=174254&extension=ts&play_token=zgWQIOyQuq
+#EXTINF:-1 tvg-logo="" group-title="┃GR┃ NOVA SPORTS",┃GR┃ NOVA SPORTS START SD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1648350&extension=ts&play_token=hFBMlpSzbR
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png" group-title="┃GR┃ NOVA SPORTS",┃GR┃ NOVA SPORTS PREMIER LEAGUE FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1879&extension=ts&play_token=YjnOEVXhxa
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png" group-title="┃GR┃ NOVA SPORTS",┃GR┃ NOVA SPORTS PREMIER LEAGUE HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=663683&extension=ts&play_token=WSC8a3kDd4
+#EXTINF:-1 tvg-logo="" group-title="┃GR┃ NOVA SPORTS",┃GR┃ NOVA SPORTS PREMIER LEAGUE SD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1648349&extension=ts&play_token=HBXmynsG5U
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png" group-title="┃GR┃ NOVA SPORTS",┃GR┃ NOVA SPORTS 1 FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=173185&extension=ts&play_token=KEKI5eHhKq
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png" group-title="┃GR┃ NOVA SPORTS",┃GR┃ NOVA SPORTS 1 HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=193070&extension=ts&play_token=koSUr9shR5
+#EXTINF:-1 tvg-logo="" group-title="┃GR┃ NOVA SPORTS",┃GR┃ NOVA SPORTS 1 SD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1648348&extension=ts&play_token=711xcQb3go
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png" group-title="┃GR┃ NOVA SPORTS",┃GR┃ NOVA SPORTS 2 FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=173186&extension=ts&play_token=vxfF4EBApC
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png" group-title="┃GR┃ NOVA SPORTS",┃GR┃ NOVA SPORTS 2 HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1878&extension=ts&play_token=iJLs8NEIV9
+#EXTINF:-1 tvg-logo="" group-title="┃GR┃ NOVA SPORTS",┃GR┃ NOVA SPORTS 2 SD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1648347&extension=ts&play_token=c0hhVmeTGk
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png" group-title="┃GR┃ NOVA SPORTS",┃GR┃ NOVA SPORTS 3 FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=174271&extension=ts&play_token=xSt8BDce9j
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png" group-title="┃GR┃ NOVA SPORTS",┃GR┃ NOVA SPORTS 3 HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1877&extension=ts&play_token=rb77CBLC2N
+#EXTINF:-1 tvg-logo="" group-title="┃GR┃ NOVA SPORTS",┃GR┃ NOVA SPORTS 3 SD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1648346&extension=ts&play_token=B2VKpBvRsC
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png" group-title="┃GR┃ NOVA SPORTS",┃GR┃ NOVA SPORTS 4 FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=174272&extension=ts&play_token=c3C8ASnYYk
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png" group-title="┃GR┃ NOVA SPORTS",┃GR┃ NOVA SPORTS 4 HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1876&extension=ts&play_token=tyZgCYvXEX
+#EXTINF:-1 tvg-logo="" group-title="┃GR┃ NOVA SPORTS",┃GR┃ NOVA SPORTS 4 SD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1648345&extension=ts&play_token=Oo2p6oJnIN
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png" group-title="┃GR┃ NOVA SPORTS",┃GR┃ NOVA SPORTS 5 FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1875&extension=ts&play_token=uxdB9eQXUR
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png" group-title="┃GR┃ NOVA SPORTS",┃GR┃ NOVA SPORTS 5 HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=193074&extension=ts&play_token=zGx8vN9tDu
+#EXTINF:-1 tvg-logo="" group-title="┃GR┃ NOVA SPORTS",┃GR┃ NOVA SPORTS 5 SD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1648344&extension=ts&play_token=ErEZfZVPfp
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png" group-title="┃GR┃ NOVA SPORTS",┃GR┃ NOVA SPORTS 6 FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=174273&extension=ts&play_token=KiB6dw55ck
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVASPORTSSTART.png" group-title="┃GR┃ NOVA SPORTS",┃GR┃ NOVA SPORTS 6 HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=699928&extension=ts&play_token=7De3JmegkB
+#EXTINF:-1 tvg-logo="" group-title="┃GR┃ NOVA SPORTS",┃GR┃ NOVA SPORTS 6 SD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1648343&extension=ts&play_token=xmLjzlBgOc
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png" group-title="┃GR┃ NOVA SPORTS",┃GR┃ NOVA SPORTS EXTRA 1 FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=193071&extension=ts&play_token=b7seE40vBz
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png" group-title="┃GR┃ NOVA SPORTS",┃GR┃ NOVA SPORTS EXTRA 2 FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=193072&extension=ts&play_token=byRTzVjS2a
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png" group-title="┃GR┃ NOVA SPORTS",┃GR┃ NOVA SPORTS EXTRA 3 FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=193073&extension=ts&play_token=SrF36j54HF
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png" group-title="┃GR┃ NOVA SPORTS",┃GR┃ NOVA SPORTS EXTRA 4 FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=724019&extension=ts&play_token=gSyQfGVows
+#EXTINF:-1 tvg-logo="" group-title="┃GR┃ OD CINEMA",┃GR┃ VIASAT FILM ACTION HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1461622&extension=ts&play_token=wTZRVWa8jX
+#EXTINF:-1 tvg-logo="" group-title="┃GR┃ OD CINEMA",┃GR┃ VIASAT FILM PREMIERE HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1461624&extension=ts&play_token=PG6Z3tigsF
+#EXTINF:-1 tvg-logo="" group-title="┃GR┃ OD CINEMA",┃GR┃ VIASAT FILM HITS HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1461623&extension=ts&play_token=Ip1nEznbxV
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="┃GR┃ OD CINEMA",┃GR┃ ACTION
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1154067&extension=ts&play_token=A3IwadVHEk
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="┃GR┃ OD CINEMA",┃GR┃ ADVENTURE
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1154068&extension=ts&play_token=0r07LIkyoU
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="┃GR┃ OD CINEMA",┃GR┃ AMERICAN PIE
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1154045&extension=ts&play_token=xMkFmqiKLq
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="┃GR┃ OD CINEMA",┃GR┃ BIOGRAPHY
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1154064&extension=ts&play_token=OsohRXNXDR
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="┃GR┃ OD CINEMA",┃GR┃ BOLLYWOOD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1154058&extension=ts&play_token=SDyeT7nfYJ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="┃GR┃ OD CINEMA",┃GR┃ CHRISTMAS
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1154040&extension=ts&play_token=N70NH6nspJ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="┃GR┃ OD CINEMA",┃GR┃ CHRISTMAS
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1154043&extension=ts&play_token=MqrUZrIbAu
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="┃GR┃ OD CINEMA",┃GR┃ COMEDY
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1154069&extension=ts&play_token=O7iEHRJt4g
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="┃GR┃ OD CINEMA",┃GR┃ CRIME
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1154080&extension=ts&play_token=E8v2rzNXS7
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="┃GR┃ OD CINEMA",┃GR┃ DETECTIVE
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1154054&extension=ts&play_token=Br98Mn1EpO
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="┃GR┃ OD CINEMA",┃GR┃ DOCUMENTARY
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1154065&extension=ts&play_token=jVHSwgStJ5
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="┃GR┃ OD CINEMA",┃GR┃ DRAMA
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1154079&extension=ts&play_token=zetGiQpJfI
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="┃GR┃ OD CINEMA",┃GR┃ FAMILY
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1154066&extension=ts&play_token=5a0lAEe2EE
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="┃GR┃ OD CINEMA",┃GR┃ FANTASY
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1154075&extension=ts&play_token=7TfzWXoJAr
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="┃GR┃ OD CINEMA",┃GR┃ FINAL DESTINATION
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1154046&extension=ts&play_token=Cqcc2tvB2h
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="┃GR┃ OD CINEMA",┃GR┃ HISTORY
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1154078&extension=ts&play_token=6qbue8p0hI
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="┃GR┃ OD CINEMA",┃GR┃ HORROR
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1154070&extension=ts&play_token=1G6FL5owzz
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="┃GR┃ OD CINEMA",┃GR┃ JAMES BOND 2
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1154081&extension=ts&play_token=z7NoyWADOp
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="┃GR┃ OD CINEMA",┃GR┃ KIDS
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1154071&extension=ts&play_token=GxNHf5c28r
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="┃GR┃ OD CINEMA",┃GR┃ LEGO
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1154042&extension=ts&play_token=B3FAAMein6
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="┃GR┃ OD CINEMA",┃GR┃ MUSICAL
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1154074&extension=ts&play_token=qy7u62LuE0
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="┃GR┃ OD CINEMA",┃GR┃ MYSTERY
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1154072&extension=ts&play_token=C2WSldcGSU
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="┃GR┃ OD CINEMA",┃GR┃ NEW GREEK
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1154063&extension=ts&play_token=a9v9KzNAJ6
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="┃GR┃ OD CINEMA",┃GR┃ PAW PATROL
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1154041&extension=ts&play_token=U8XPKt1CmP
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="┃GR┃ OD CINEMA",┃GR┃ PIRATES OF THE CARIBBEAN
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1154047&extension=ts&play_token=z8dE99mkJS
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="┃GR┃ OD CINEMA",┃GR┃ PREMIERE
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1154053&extension=ts&play_token=KpCJe9UT42
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="┃GR┃ OD CINEMA",┃GR┃ RAMBO
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1154082&extension=ts&play_token=HbOZPApral
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="┃GR┃ OD CINEMA",┃GR┃ RESIDENT EVIL
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1154048&extension=ts&play_token=8asf467ks9
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="┃GR┃ OD CINEMA",┃GR┃ ROCKY
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1154049&extension=ts&play_token=Gft3gTYKUT
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="┃GR┃ OD CINEMA",┃GR┃ ROMANTIC
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1154073&extension=ts&play_token=QtcoSHCT3K
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="┃GR┃ OD CINEMA",┃GR┃ SAW
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1154050&extension=ts&play_token=yLnwhc6LQn
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="┃GR┃ OD CINEMA",┃GR┃ SCI-FI
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1154062&extension=ts&play_token=DJfWwzsQtc
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="┃GR┃ OD CINEMA",┃GR┃ SERIAL KILLER
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1154057&extension=ts&play_token=xtDZl4yBz3
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="┃GR┃ OD CINEMA",┃GR┃ SPORT
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1154076&extension=ts&play_token=m95Us1bwxu
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="┃GR┃ OD CINEMA",┃GR┃ SUPERHERO
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1154056&extension=ts&play_token=a3tFOhis5x
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="┃GR┃ OD CINEMA",┃GR┃ TERMINATOR
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1154044&extension=ts&play_token=Gx79QajQni
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="┃GR┃ OD CINEMA",┃GR┃ THE TRANSPORTER
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1154051&extension=ts&play_token=rywuXARSOO
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="┃GR┃ OD CINEMA",┃GR┃ THRILLER
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1154077&extension=ts&play_token=Xw4jSqqqcx
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="┃GR┃ OD CINEMA",┃GR┃ VAMPIRE
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1154059&extension=ts&play_token=UOXi3UHXgA
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="┃GR┃ OD CINEMA",┃GR┃ WAR
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1154061&extension=ts&play_token=5zglHkXvIO
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="┃GR┃ OD CINEMA",┃GR┃ WESTERN
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1154060&extension=ts&play_token=yV92dpwTlU
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="┃GR┃ OD CINEMA",┃GR┃ X-MEN
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1154052&extension=ts&play_token=o4jtTgeBR6
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="┃GR┃ OD CINEMA",┃GR┃ ZOMBIE
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1154055&extension=ts&play_token=0NUFTpuOGI
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/24 7.png" group-title="┃GR┃ OD GREECE",┃GR┃ ΠΑΛΙΕΣ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ 1
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1154014&extension=ts&play_token=gi0kHc3NH4
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/24 7.png" group-title="┃GR┃ OD GREECE",┃GR┃ ΠΑΛΙΕΣ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ 2
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1154015&extension=ts&play_token=Vo2IEiMnye
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/24 7.png" group-title="┃GR┃ OD GREECE",┃GR┃ ΠΑΛΙΕΣ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ 3
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1154016&extension=ts&play_token=oEr7iEQwNu
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/24 7.png" group-title="┃GR┃ OD GREECE",┃GR┃ ΠΑΛΙΕΣ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ 4
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1154017&extension=ts&play_token=7KgGIRoQMp
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/24 7.png" group-title="┃GR┃ OD GREECE",┃GR┃ ΠΑΛΙΕΣ ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ 5
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1154018&extension=ts&play_token=JTwFEN9qQP
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/24 7.png" group-title="┃GR┃ OD GREECE",┃GR┃ ΠΑΙΔΙΚΕΣ 1
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1154026&extension=ts&play_token=RGbpisNtpe
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/24 7.png" group-title="┃GR┃ OD GREECE",┃GR┃ ΠΑΙΔΙΚΕΣ 2
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1154027&extension=ts&play_token=U6FosU0iQn
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/24 7.png" group-title="┃GR┃ OD GREECE",┃GR┃ ΠΑΙΔΙΚΕΣ 3
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1154028&extension=ts&play_token=akTloCA8SJ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/24 7.png" group-title="┃GR┃ OD GREECE",┃GR┃ ΠΕΡΙΠΕΤΕΙΕΣ
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1154020&extension=ts&play_token=nFAWiGfPFq
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/24 7.png" group-title="┃GR┃ OD GREECE",┃GR┃ ΠΡΕΜΙΕΡΕΣ
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1154036&extension=ts&play_token=zlgk9tWYBM
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/24 7.png" group-title="┃GR┃ OD GREECE",┃GR┃ ΡΟΜΑΝΤΙΚΕΣ
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1154033&extension=ts&play_token=jPFafspsDx
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/24 7.png" group-title="┃GR┃ OD GREECE",┃GR┃ ΣΒΑΡΤΣΕΝΕΓΚΕΡ FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1154005&extension=ts&play_token=jApbSXLUIU
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/24 7.png" group-title="┃GR┃ OD GREECE",┃GR┃ ΣΤΑΛΟΝΕ FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1154006&extension=ts&play_token=liCBlJWbtB
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/24 7.png" group-title="┃GR┃ OD GREECE",┃GR┃ ΤΑΙΝΙΕΣ ΟΣΚΑΡ FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1154037&extension=ts&play_token=S5KE0NN3Gs
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/24 7.png" group-title="┃GR┃ OD GREECE",┃GR┃ ΤΖΑΚΙ ΤΣΑΝ FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1154007&extension=ts&play_token=Y3ruVodTl9
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/24 7.png" group-title="┃GR┃ OD GREECE",┃GR┃ ΤΡΟΜΟΥ
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1154029&extension=ts&play_token=bUrh5wzmRz
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/24 7.png" group-title="┃GR┃ OD GREECE",┃GR┃ ΦΑΝΤΑΣΙΑΣ
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1154030&extension=ts&play_token=QSgcEEi0AT
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/24 7.png" group-title="┃GR┃ OD GREECE",┃GR┃ ANIME HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1154003&extension=ts&play_token=xizAZS33NY
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/24 7.png" group-title="┃GR┃ OD GREECE",┃GR┃ BOLLYWOOD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1154013&extension=ts&play_token=De2PJSsIZt
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/DC TV.png" group-title="┃GR┃ OD GREECE",┃GR┃ DC TV FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1154010&extension=ts&play_token=rnaUN4rkUy
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/MARVEL TV.png" group-title="┃GR┃ OD GREECE",┃GR┃ MARVEL TV FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1154011&extension=ts&play_token=kDtMTGLHR2
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/24 7.png" group-title="┃GR┃ OD GREECE",┃GR┃ ΒΙΟΓΡΑΦΙΕΣ
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1154031&extension=ts&play_token=y0wHYDlxw7
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/24 7.png" group-title="┃GR┃ OD GREECE",┃GR┃ ΔΡΑΜΑΤΙΚΕΣ
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1154024&extension=ts&play_token=m3SwKS0iah
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/24 7.png" group-title="┃GR┃ OD GREECE",┃GR┃ ΔΡΑΣΗΣ
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1154019&extension=ts&play_token=dlAiPKTi7y
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/24 7.png" group-title="┃GR┃ OD GREECE",┃GR┃ ΕΓΚΛΗΜΑΤΟΣ
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1154022&extension=ts&play_token=GFf4vKNA30
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/24 7.png" group-title="┃GR┃ OD GREECE",┃GR┃ ΕΠΙΣΤ. ΦΑΝΤΑΣΙΑΣ
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1154035&extension=ts&play_token=jG1XuqVYmh
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/24 7.png" group-title="┃GR┃ OD GREECE",┃GR┃ ΘΕΑΤΡΟ HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1154004&extension=ts&play_token=mqOk8Us9qV
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/24 7.png" group-title="┃GR┃ OD GREECE",┃GR┃ ΘΡΗΣΚΕΥΤΙΚΕΣ
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1154012&extension=ts&play_token=U3RilNPUUj
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/24 7.png" group-title="┃GR┃ OD GREECE",┃GR┃ ΘΡΙΛΛΕΡ
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1154034&extension=ts&play_token=esyFxTNBlT
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/24 7.png" group-title="┃GR┃ OD GREECE",┃GR┃ ΚΛΑΣΙΚΕΣ ΤΑΙΝΙΕΣ
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1154009&extension=ts&play_token=c7RlXaEWnR
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/24 7.png" group-title="┃GR┃ OD GREECE",┃GR┃ ΚΩΜΩΔΙΕΣ
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1154021&extension=ts&play_token=htOovLFo4s
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/24 7.png" group-title="┃GR┃ OD GREECE",┃GR┃ ΜΠΡΟΥΣ ΛΗ FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1154008&extension=ts&play_token=zKVFCl02RT
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/24 7.png" group-title="┃GR┃ OD GREECE",┃GR┃ ΜΥΣΤΗΡΙΟΥ
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1154032&extension=ts&play_token=hEROWS9A73
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/24 7.png" group-title="┃GR┃ OD GREECE",┃GR┃ ΝΤΟΚΥΜΑΝΤΕΡ
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1154023&extension=ts&play_token=w1Lx2YPOM9
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/24 7.png" group-title="┃GR┃ OD GREECE",┃GR┃ ΟΙΚΟΓΕΝΕΙΑΚΕΣ
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1154025&extension=ts&play_token=rq73guYlEU
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="┃GR┃ OD GREEK OLD",┃GR┃ VIP GREEK CINEMA 50S 1
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1168737&extension=ts&play_token=PYRruJkHYM
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="┃GR┃ OD GREEK OLD",┃GR┃ VIP GREEK CINEMA 50S 2
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1168738&extension=ts&play_token=eaMJSjqhRn
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="┃GR┃ OD GREEK OLD",┃GR┃ VIP GREEK CINEMA 60S 1
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1168739&extension=ts&play_token=Lo9sjuMkUT
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="┃GR┃ OD GREEK OLD",┃GR┃ VIP GREEK CINEMA 60S 2
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1168740&extension=ts&play_token=XjmqXZ8v5L
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="┃GR┃ OD GREEK OLD",┃GR┃ VIP GREEK CINEMA 60S 3
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1168741&extension=ts&play_token=kqQyGdwgEl
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="┃GR┃ OD GREEK OLD",┃GR┃ VIP GREEK CINEMA 70S 1
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1168742&extension=ts&play_token=kHPNuJ7XaS
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="┃GR┃ OD GREEK OLD",┃GR┃ VIP GREEK CINEMA 70S 2
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1168743&extension=ts&play_token=I7wlSOJSnS
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="┃GR┃ OD GREEK OLD",┃GR┃ VIP GREEK CINEMA 70S 3
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1168744&extension=ts&play_token=E2Z8le1CDA
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="┃GR┃ OD GREEK OLD",┃GR┃ VIP GREEK CINEMA 80S 1
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1168745&extension=ts&play_token=GavM07tZyb
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="┃GR┃ OD GREEK OLD",┃GR┃ VIP GREEK CINEMA 80S 2
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1168746&extension=ts&play_token=Bi98BkWq5l
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="┃GR┃ OD GREEK OLD",┃GR┃ VIP GREEK CINEMA 80S 3
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1168747&extension=ts&play_token=Ij5gXRNzDS
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="┃GR┃ OD GREEK OLD",┃GR┃ VIP GREEK CINEMA 90S 1
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1168736&extension=ts&play_token=w2bWOHUUl2
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="┃GR┃ OD GREEK OLD",┃GR┃ VIP GREEK CINEMA 90S 2
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1168735&extension=ts&play_token=XxCmXPFkoX
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="┃GR┃ OD GREEK OLD",┃GR┃ VIP GREEK CINEMA USA
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1168748&extension=ts&play_token=xou2GfYS16
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE.png" group-title="┃GR┃ OD NOVA CINEMA",┃GR┃ NOVA PREMIERE ACTION FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1168722&extension=ts&play_token=iyqllqGUGT
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE.png" group-title="┃GR┃ OD NOVA CINEMA",┃GR┃ NOVA PREMIERE ADVENTURE FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1168724&extension=ts&play_token=NdVglGiqa6
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE.png" group-title="┃GR┃ OD NOVA CINEMA",┃GR┃ NOVA PREMIERE ANIMATION FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1168723&extension=ts&play_token=eHWuLVB3zh
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE.png" group-title="┃GR┃ OD NOVA CINEMA",┃GR┃ NOVA PREMIERE BIOGRAPHY FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1168731&extension=ts&play_token=OcvCOn7nj3
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE.png" group-title="┃GR┃ OD NOVA CINEMA",┃GR┃ NOVA PREMIERE COMEDY FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1168721&extension=ts&play_token=0W9EsYUeSV
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE.png" group-title="┃GR┃ OD NOVA CINEMA",┃GR┃ NOVA PREMIERE DRAMA FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1168726&extension=ts&play_token=CrytzSQFoc
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE.png" group-title="┃GR┃ OD NOVA CINEMA",┃GR┃ NOVA PREMIERE FANTASY FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1168720&extension=ts&play_token=VSgDPQtDll
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE.png" group-title="┃GR┃ OD NOVA CINEMA",┃GR┃ NOVA PREMIERE HELLENIC FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1168730&extension=ts&play_token=bHzFNgW8s3
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE.png" group-title="┃GR┃ OD NOVA CINEMA",┃GR┃ NOVA PREMIERE HISTORY FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1168729&extension=ts&play_token=vfV7suON7R
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE.png" group-title="┃GR┃ OD NOVA CINEMA",┃GR┃ NOVA PREMIERE HORROR FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1168728&extension=ts&play_token=Sm1oBmS2Mk
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE.png" group-title="┃GR┃ OD NOVA CINEMA",┃GR┃ NOVA PREMIERE MYTHOLOGY FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1168734&extension=ts&play_token=iLzvXUGW89
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE.png" group-title="┃GR┃ OD NOVA CINEMA",┃GR┃ NOVA PREMIERE PASSION FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1168727&extension=ts&play_token=FbibhpqvWb
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE.png" group-title="┃GR┃ OD NOVA CINEMA",┃GR┃ NOVA PREMIERE SCI-FI FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1168732&extension=ts&play_token=qH0nbD6svJ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE.png" group-title="┃GR┃ OD NOVA CINEMA",┃GR┃ NOVA PREMIERE STARZ FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1168719&extension=ts&play_token=TDe9kUdyev
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE.png" group-title="┃GR┃ OD NOVA CINEMA",┃GR┃ NOVA PREMIERE THRILLER FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1168725&extension=ts&play_token=dlqlfu6xYy
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE.png" group-title="┃GR┃ OD NOVA CINEMA",┃GR┃ NOVA PREMIERE WESTERN FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1168733&extension=ts&play_token=Y1WPhM9gaF
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE.png" group-title="┃GR┃ OD NOVA PREMIERE",┃GR┃ NOVA PREMIERE 1 FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1168701&extension=ts&play_token=z9rmwyDo1l
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE.png" group-title="┃GR┃ OD NOVA PREMIERE",┃GR┃ NOVA PREMIERE 2 FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1168702&extension=ts&play_token=lNeb57z6Bu
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE.png" group-title="┃GR┃ OD NOVA PREMIERE",┃GR┃ NOVA PREMIERE 3 FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1168703&extension=ts&play_token=zlzxSYVFRA
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE.png" group-title="┃GR┃ OD NOVA PREMIERE",┃GR┃ NOVA PREMIERE 4 FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1168704&extension=ts&play_token=EUgX7792Vb
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE.png" group-title="┃GR┃ OD NOVA PREMIERE",┃GR┃ NOVA PREMIERE 5 FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1168705&extension=ts&play_token=GHooD7pPsw
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE.png" group-title="┃GR┃ OD NOVA PREMIERE",┃GR┃ NOVA PREMIERE 6 FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1168706&extension=ts&play_token=yChkN3d6qZ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE.png" group-title="┃GR┃ OD NOVA PREMIERE",┃GR┃ NOVA PREMIERE 7 FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1168707&extension=ts&play_token=8iHR2xMUgD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE.png" group-title="┃GR┃ OD NOVA PREMIERE",┃GR┃ NOVA PREMIERE 8 FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1168708&extension=ts&play_token=x4lK56PMXa
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE.png" group-title="┃GR┃ OD NOVA PREMIERE",┃GR┃ NOVA PREMIERE 9 FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1168709&extension=ts&play_token=Pwca0kHCmt
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE.png" group-title="┃GR┃ OD NOVA PREMIERE",┃GR┃ NOVA PREMIERE 10 FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1168710&extension=ts&play_token=ed9oJvHH8G
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE.png" group-title="┃GR┃ OD NOVA PREMIERE",┃GR┃ NOVA PREMIERE 11 FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1168711&extension=ts&play_token=xRUIl2DoBc
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE.png" group-title="┃GR┃ OD NOVA PREMIERE",┃GR┃ NOVA PREMIERE 12 FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1168712&extension=ts&play_token=SMfDutoMLg
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE.png" group-title="┃GR┃ OD NOVA PREMIERE",┃GR┃ NOVA PREMIERE 13 FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1168713&extension=ts&play_token=dQj5kMcTw5
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE.png" group-title="┃GR┃ OD NOVA PREMIERE",┃GR┃ NOVA PREMIERE 14 FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1168714&extension=ts&play_token=hRHBUg7Ws1
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE.png" group-title="┃GR┃ OD NOVA PREMIERE",┃GR┃ NOVA PREMIERE 15 FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1168715&extension=ts&play_token=NudeIAygD2
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE.png" group-title="┃GR┃ OD NOVA PREMIERE",┃GR┃ NOVA PREMIERE 16 FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1168716&extension=ts&play_token=J86oqg6TDo
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE.png" group-title="┃GR┃ OD NOVA PREMIERE",┃GR┃ NOVA PREMIERE 17 FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1168717&extension=ts&play_token=yLKXEl2i3A
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE.png" group-title="┃GR┃ OD NOVA PREMIERE",┃GR┃ NOVA PREMIERE 18 FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1168718&extension=ts&play_token=S0v4NojQ2d
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE 4k.png" group-title="┃GR┃ OD NOVA PREMIERE 4K",┃GR┃ ΒΙΤΡΊΝΑ NOVA PREMIERE 4K
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1168691&extension=ts&play_token=VM65Zi0ZTq
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE 4k.png" group-title="┃GR┃ OD NOVA PREMIERE 4K",┃GR┃ NOVA PREMIERE 1 4K (MULTI)
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1168692&extension=ts&play_token=96v1uYWuwX
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE 4k.png" group-title="┃GR┃ OD NOVA PREMIERE 4K",┃GR┃ NOVA PREMIERE 2 4K (MULTI)
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1168693&extension=ts&play_token=3RmupqeuoM
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE 4k.png" group-title="┃GR┃ OD NOVA PREMIERE 4K",┃GR┃ NOVA PREMIERE 3 4K (MULTI)
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1168694&extension=ts&play_token=z8Y90p4eNW
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE 4k.png" group-title="┃GR┃ OD NOVA PREMIERE 4K",┃GR┃ NOVA PREMIERE 4 4K (MULTI)
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1168695&extension=ts&play_token=X1nuvCef1V
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE 4k.png" group-title="┃GR┃ OD NOVA PREMIERE 4K",┃GR┃ NOVA PREMIERE 5 4K (MULTI)
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1168696&extension=ts&play_token=eqBnxpvGID
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE 4k.png" group-title="┃GR┃ OD NOVA PREMIERE 4K",┃GR┃ NOVA PREMIERE 6 4K (MULTI)
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1168697&extension=ts&play_token=8ximnQS7la
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE 4k.png" group-title="┃GR┃ OD NOVA PREMIERE 4K",┃GR┃ NOVA PREMIERE 7 4K (MULTI)
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1168698&extension=ts&play_token=ZP8amOyBY2
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE 4k.png" group-title="┃GR┃ OD NOVA PREMIERE 4K",┃GR┃ NOVA PREMIERE 8 4K (MULTI)
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1168699&extension=ts&play_token=M3WS1OsshB
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/NOVA PREMIERE 4k.png" group-title="┃GR┃ OD NOVA PREMIERE 4K",┃GR┃ NOVA PREMIERE 9 4K (MULTI)
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1168700&extension=ts&play_token=X3oncTKSdQ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Cinema.png" group-title="┃GR┃ OD SERIES",┃GR┃ PSYXOKORES
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=771307&extension=ts&play_token=2W9eAE2US0
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Cinema.png" group-title="┃GR┃ OD SERIES",┃GR┃ MAURO RODO
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=771308&extension=ts&play_token=gEi3vmJrhJ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Cinema.png" group-title="┃GR┃ OD SERIES",┃GR┃ AGRIES MELISSES
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=771309&extension=ts&play_token=SQRH67mP4S
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Cinema.png" group-title="┃GR┃ OD SERIES",┃GR┃ 50 / 50
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=771310&extension=ts&play_token=C6BpPNDysY
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Cinema.png" group-title="┃GR┃ OD SERIES",┃GR┃ FRIENDS
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=771311&extension=ts&play_token=6sVl6vouSZ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Cinema.png" group-title="┃GR┃ OD SERIES",┃GR┃ MODERN FAMILY
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=771312&extension=ts&play_token=caHTRb5RTt
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Cinema.png" group-title="┃GR┃ OD SERIES",┃GR┃ TWO AND A HALF MEN
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=771313&extension=ts&play_token=RH6qrddaUl
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Cinema.png" group-title="┃GR┃ OD SERIES",┃GR┃ MAESTRO
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=771314&extension=ts&play_token=a1dAOVAQlG
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Cinema.png" group-title="┃GR┃ OD SERIES",┃GR┃ TO KOKKINO POTAMI
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=771315&extension=ts&play_token=EcIzmJqRGO
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Cinema.png" group-title="┃GR┃ OD SERIES",┃GR┃ BROOKLYN NINE NINE
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=771316&extension=ts&play_token=OVRuhLz6YL
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Cinema.png" group-title="┃GR┃ OD SERIES",┃GR┃ COMMUNITY
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=771317&extension=ts&play_token=1sAxU0jduc
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Cinema.png" group-title="┃GR┃ OD SERIES",┃GR┃ DEXTER
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=771318&extension=ts&play_token=ebMM8h8VqX
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Cinema.png" group-title="┃GR┃ OD SERIES",┃GR┃ HOW I MET YOUR MOTHER
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=771319&extension=ts&play_token=NFoEji1Rby
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Cinema.png" group-title="┃GR┃ OD SERIES",┃GR┃ LUCIFER
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=771320&extension=ts&play_token=vkTvRrUEc2
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Cinema.png" group-title="┃GR┃ OD SERIES",┃GR┃ THE BIG BANG THEORY
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=771321&extension=ts&play_token=8lklXW2IJZ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Cinema.png" group-title="┃GR┃ OD SERIES",┃GR┃ HOUSE
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=771322&extension=ts&play_token=RKpxHMxW3Y
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃GR┃ OD ZONE+",┃GR┃ ZONE+ ACTION
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=843838&extension=ts&play_token=yU8rGjB7JO
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃GR┃ OD ZONE+",┃GR┃ ZONE+ ADVENTURE
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=847972&extension=ts&play_token=NtZnnNpGcb
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃GR┃ OD ZONE+",┃GR┃ ZONE+ AGENT 007
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=844351&extension=ts&play_token=r9cnyTzw3O
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃GR┃ OD ZONE+",┃GR┃ ZONE+ AMAZON PRIME VIDEO
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=843839&extension=ts&play_token=xvQMPPCs8D
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃GR┃ OD ZONE+",┃GR┃ ZONE+ APPLE TV+
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=843840&extension=ts&play_token=TwS19XDC8M
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃GR┃ OD ZONE+",┃GR┃  ZONE+ BRUCE LEE
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=863685&extension=ts&play_token=vx3HHpDN7S
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃GR┃ OD ZONE+",┃GR┃ ZONE+ CHRISTMAS
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=843841&extension=ts&play_token=fqHEeVX49D
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃GR┃ OD ZONE+",┃GR┃ ZONE+ COMEDY
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=844352&extension=ts&play_token=BxLl75md6V
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃GR┃ OD ZONE+",┃GR┃ ZONE+ CRIME
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=844012&extension=ts&play_token=5XuWuFirii
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃GR┃ OD ZONE+",┃GR┃ ZONE+ DISNEY
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=847974&extension=ts&play_token=q3loSeUKMH
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃GR┃ OD ZONE+",┃GR┃ ZONE+ DOCUMENTARY
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=844017&extension=ts&play_token=8MOgBAUKnL
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃GR┃ OD ZONE+",┃GR┃ ZONE+ DRAMA
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=844010&extension=ts&play_token=gnUhAo6OrJ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃GR┃ OD ZONE+",┃GR┃ ZONE+ FAMILY
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=847975&extension=ts&play_token=29OWLCkpH4
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃GR┃ OD ZONE+",┃GR┃ ZONE+ FANTASY
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=847976&extension=ts&play_token=bGNbN1bmb7
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃GR┃ OD ZONE+",┃GR┃ ZONE+ FAST & FURIOUS
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=849955&extension=ts&play_token=BWkdlf36vY
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃GR┃ OD ZONE+",┃GR┃ ZONE+ HARRY POTTER
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=847977&extension=ts&play_token=9M1CINKelb
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃GR┃ OD ZONE+",┃GR┃ ZONE+ HORROR
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=844013&extension=ts&play_token=uoHgpG7EtK
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃GR┃ OD ZONE+",┃GR┃ ZONE+ MARKOS SEFERLIS
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=847973&extension=ts&play_token=GRZdqyTX40
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃GR┃ OD ZONE+",┃GR┃ ZONE+ NETFLIX
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=844015&extension=ts&play_token=vACZY6v5AT
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃GR┃ OD ZONE+",┃GR┃ ZONE+ NEW GREEK
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=844019&extension=ts&play_token=qGpDvGHOLl
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃GR┃ OD ZONE+",┃GR┃ ZONE+ OLD GREEK
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=849334&extension=ts&play_token=YGZI26zUv8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃GR┃ OD ZONE+",┃GR┃ ZONE+ PREMIERE
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=844353&extension=ts&play_token=Q27lWZBCrR
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃GR┃ OD ZONE+",┃GR┃ ZONE+ ROMANCE
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=848501&extension=ts&play_token=nCEFu2BVu0
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃GR┃ OD ZONE+",┃GR┃ ZONE+ SCI-FI
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=844354&extension=ts&play_token=3aBi4a7qNj
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃GR┃ OD ZONE+",┃GR┃ ZONE+ SYLVESTER STALLONE
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=844018&extension=ts&play_token=6ofEg0b7me
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃GR┃ OD ZONE+",┃GR┃ ZONE+ THRILLER
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=844355&extension=ts&play_token=jdzyUulwLP
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/ANT1+.png" group-title="┃GR┃ SPORTS | ΑΘΛΗΤΙΚΑ",┃GR┃ ANT1+ SPORTS 1 FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=253995&extension=ts&play_token=WCiMrGAMT4
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/ANT1_Greek_channel_logo.svg.png" group-title="┃GR┃ SPORTS | ΑΘΛΗΤΙΚΑ",┃GR┃ ANT1+ SPORTS 2 FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=697964&extension=ts&play_token=0JvNx9ZXUX
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/ANT1_Greek_channel_logo.svg.png" group-title="┃GR┃ SPORTS | ΑΘΛΗΤΙΚΑ",┃GR┃ ANT1+ SPORTS 3 FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=697963&extension=ts&play_token=42lR8jFmP4
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/ANT1_Greek_channel_logo.svg.png" group-title="┃GR┃ SPORTS | ΑΘΛΗΤΙΚΑ",┃GR┃ FIGHT NETWORK FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=987467&extension=ts&play_token=8KJ1qiuMcX
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/ANT1_Greek_channel_logo.svg.png" group-title="┃GR┃ SPORTS | ΑΘΛΗΤΙΚΑ",┃GR┃ PADELTIME TV FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=987468&extension=ts&play_token=2lq6Ih3NIj
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/SPORTPLUS.png" group-title="┃GR┃ SPORTS | ΑΘΛΗΤΙΚΑ",┃GR┃ SPORT PLUS HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=663269&extension=ts&play_token=BnIKppLXUy
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/EUROSPORT.png" group-title="┃GR┃ SPORTS | ΑΘΛΗΤΙΚΑ",┃GR┃ EUROSPORT 1 FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=173188&extension=ts&play_token=3dl9Up0ZVT
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/EUROSPORT.png" group-title="┃GR┃ SPORTS | ΑΘΛΗΤΙΚΑ",┃GR┃ EUROSPORT 2 FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=173189&extension=ts&play_token=zPlTi8l7EC
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MOTORVISIONTVHD.png" group-title="┃GR┃ SPORTS | ΑΘΛΗΤΙΚΑ",┃GR┃ MOTORVISION FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=699601&extension=ts&play_token=mxWPKBTyFX
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/CZECHREPUBLIC/Extreme_Sports_Channel.png" group-title="┃GR┃ SPORTS | ΑΘΛΗΤΙΚΑ",┃GR┃ EXTREME SPORT SD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=699602&extension=ts&play_token=sM7WiELl98
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/2560px-EPT2_logo_(2015).svg.png" group-title="┃GR┃ SPORTS | ΑΘΛΗΤΙΚΑ",┃GR┃ EPT SPORTS 1 FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=699604&extension=ts&play_token=VbzOshs4nW
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/2560px-EPT2_logo_(2015).svg.png" group-title="┃GR┃ SPORTS | ΑΘΛΗΤΙΚΑ",┃GR┃ EPT SPORTS 2 FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=699605&extension=ts&play_token=VnRUKXQJyR
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/2560px-EPT2_logo_(2015).svg.png" group-title="┃GR┃ SPORTS | ΑΘΛΗΤΙΚΑ",┃GR┃ EPT SPORTS 3 FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=866625&extension=ts&play_token=zXfADuFNu5
+#EXTINF:-1 tvg-logo="" group-title="┃GR┃ SPORTS | ΑΘΛΗΤΙΚΑ",┃GR┃ ERT SPORTS 4 FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:52:49:22&stream=1648353&extension=ts&play_token=WGSpSeRcLX
