@@ -1,0 +1,839 @@
+#EXTM3U
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="http://103.176.90.118/picons-dino/logos/trt1hd.png",[TR] TRT 1 UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259872
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="http://103.176.90.118/picons/logos/ASIA/TRT-2.png",[TR] TRT 2 UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/1069641
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="http://103.176.90.118/picons-dino/logos/atvhd.png",[TR] ATV UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259873
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="http://103.176.90.118/picons-dino/logos/a2hd.jpg",[TR] A2 TV UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259874
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="http://103.176.90.118/picons-dino/logos/a2hd.jpg",[TR] A2 FHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259875
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/KANAL-23.png",[TR] KANAL 23
+http://line.liondnscloud.ru:80/726cfd77/091ec755/952354
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="http://103.176.90.118/picons-dino/logos/kanald.png",[TR] KANAL D UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259876
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="https://foto.sondakika.com/haber/2011/12/26/demokrasi-bulvari-hrt-akdeniz-de-3216480_5609_o.jpg",[TR] HRT AKDENIZ
+http://line.liondnscloud.ru:80/726cfd77/091ec755/744216
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/e/e8/20220321200409%21KRT_TV_logosu.png",[TR] KRT TV HD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/744215
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="http://103.176.90.118/picons-dino/logos/KRTHT-TV.jpg",[TR] KRT TV 4K
+http://line.liondnscloud.ru:80/726cfd77/091ec755/744832
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="http://103.176.90.118/picons-dino/logos/showtv.jpg",[TR] SHOW TV UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259877
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="http://103.176.90.118/picons-dino/logos/startvhd.png",[TR] STAR TV UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259878
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="http://103.176.90.118/picons-dino/logos/tv8.5.jpg",[TR] TV 8.5 UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259881
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="http://103.176.90.118/picons-dino/logos/tv8.png",TR - TV 8 HD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/1276748
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="http://103.176.90.118/picons-dino/logos/tv8.png",[TR] TV 8 UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259880
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="http://103.176.90.118/picons-dino/logos/kanal7.jpg",[TR] KANAL 7 UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259882
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="http://103.176.90.118/picons-dino/logos/beyaz.png",[TR] BEYAZ TV UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259883
+#EXTINF:-1 group-title="[TR] TURKEY | DIGER" tvg-logo="http://103.176.90.118/picons-dino/logos/bloombergtv.png",[TR] BLOOMBERG TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259884
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="http://103.176.90.118/picons-dino/logos/teve2hd.jpg",[TR] TEVE 2 UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259885
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="http://103.176.90.118/picons-dino/logos/eurod.png",[TR] EURO D
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259886
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="http://103.176.90.118/picons-dino/logos/eurostar.png",[TR] EURO STAR
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259887
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="http://103.176.90.118/picons-dino/logos/turkmeneli.jpg",[TR] TURKMENELI UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259888
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="http://103.176.90.118/picons-dino/logos/atvavrupa.png",[TR] ATV AVRUPA
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259889
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="http://103.176.90.118/picons/logos/SZC-TV.jpeg",[TR] SOZCU TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/916956
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="http://103.176.90.118/picons-dino/logos/360tv.jpg",[TR] 360 TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259891
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="http://103.176.90.118/picons-dino/logos/flashtv.jpg",[TR] FLASH TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259892
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="http://103.176.90.118/picons-dino/logos/aksutv.jpg",[TR] AKSU TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259893
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="http://103.176.90.118/picons-dino/logos/karadeniztv.jpg",[TR] KARADENIZTURK
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259895
+#EXTINF:-1 group-title="[TR] TURKEY | DIGER" tvg-logo="http://103.176.90.118/picons-dino/logos/kanalb.jpg",[TR] KANAL B
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259896
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="http://103.176.90.118/picons-dino/logos/kanalv.jpg",[TR] KANAL V
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259897
+#EXTINF:-1 group-title="[TR] TURKEY | SPOR" tvg-logo="http://103.176.90.118/picons/logos/meltemtv.png",[TR] MELTEM TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/662106
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="http://103.176.90.118/picons-dino/logos/kontv.jpg",[TR] KONTV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259899
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="https://www.ecanlitvizle.live/logo/pamukkale-tv-canli.png",[TR] PAMUKKALE TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/686946
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQDnw86h820Na7g1SK3FYp1upa3QM1I4HWkQw75GQ=s900-c-k-c0x00ffffff-no-rj",[TR] ÇAY TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/686945
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="https://i.ytimg.com/vi/ha-Ljv2wT6s/hqdefault.jpg",[TR] TV 41
+http://line.liondnscloud.ru:80/726cfd77/091ec755/686944
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHjrmYndHZmAOEm_cQOIg7QQnDwi67hxaODj70met66vAjfXuhEXlLsm7ox2PXMlZ86fE&usqp=CAU",[TR] KANAL 15
+http://line.liondnscloud.ru:80/726cfd77/091ec755/686943
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="https://www.ecanlitvizle.live/logo/bursa-line-tv-izle.png",[TR] LINE TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/686942
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIQAAABjCAMAAABt21ivAAAA81BMVEX////+/v78//9kZGRxBAPAAQD19vX4/v7JOTjLXmDGBAhtbWzmBAWnp6d2dnb2BARdXV2CgoE2Njbd3d2UlJS6CQvOCQm8vLzPz87WAwZYWFiKiopRUVGtra3q6upISEjEChCcnJyrBQYVFBTZ2dmiDAyOBAWuU1DUREPxkZLQf328GyG7KC3y1tnIUEzsUlLFWVXxfnz06uarLi6OMi+7Q0Hq/PnnFBl4GxvNa2vspJ/XtLDPkZCaR0XxLi/rc3LXKC2fFxvNpKDlzMX1ZWSoQTzrPULq3NLGHSO5b2+5gn/99v747u3rsq/g1srf8fGYYFS9fnzTAAAK50lEQVRoge2Za3eiyBaGKWgLA0pAQBRQxGg03mKbRBNNOvfLtPZk/v+vOe8u0KixZ83pNev0h+POkpCqEh72vYgk7WUve9nLXvayl73sZS972cv/rbD08xsJ1uW3QsgyY/x3QMiqituqMs5k4lAl+qWqsMz/joaJW6qLx2nnajg8uOpM+2NZns+ZLMj+VwyqtJhdXXTdTEaDuG530OkDaz7/NYil/lZqZJvjn78gQQt8NqhltGKxqLkCAofu1SMo+C/Zg7G8YVkB/xioBpZleT+HgB76A9ctEkIi5aLrujWt2xmp/Nd8goVBPh81Pga8KI4t5SeLJXLIaRdWqNXcbnYwHA4G7WwXSDW3qF08ygL+v7YJM21JUpYQuIRnSFJD/8liMPAOtF/Uuu2rk+mPk6fT09ODwSDrajUM9mbqXMTJxleEcTeTShLUq+MSYrXAA0BJ38hFqyvC+cZXuJnmDm6/Qk6mX9vfJpPDt8Ew6xahi+5UpfjdqcS/kw1NQJYQyWOs/8LJfNGpwxl7V7dPp0+C4uTp2+QwVy62h114aNmdbUJwz7EMw3BsqeE4gVcKDKuC65RiGg1KYOOxYTmFBIJ7gRU43koTnuM4cZXH+LXyUij6GnpwL26fXr69vJw+3T7dfj05eWrfTYrFu4NeDYZ6e1w3hx0qQcXzvCDynDB2CmbsVRS9qphBHqNx6GCF4XmOUQWEXQp1J593FNMuJRC6HseR1yjEseGvzCs/dsua2759+UbycgoCyPTk9vSu6HaHPYrYi9EahLf0cNs38vA1EYWGZaZPxf2Snl9aS/FCLxnOm6kmDAxYXgMXscWFZEZV4gIMF0+Tw8MJEMgeX7/CNZ8g2YnbHPRqwOioH37kKbxqN2xErlPIk+4bOG1EfrVq23TqhQpW2iWC0xUHz2lXsQy22oJoCAiVtDxFEPRODycvt1+n0+lJ5/b2lijaL20ESbbbhV/Uyr3+h1eUougIgqf1cGANP9RBEoUhjVq4tjhEZkjmKMAznTCixdHPIUZZZOiDyeR0Ohqp48VivOj3R+Px6PG6fZdtZy96ZwNkDLczXmqCSZWCEcdxiQkIybG4zyVuehGMHcMBG0cOtG9JPhzTLHBKGGTBRmE3BGyhTjW3nG1/ezp9uctSXlocTO7at30UjP51dnLX6923zhC/vddV5rTTNLiEiLkJiDDy0tHSUSxJsSNC1AcEV7jwgJ9CqHyAEnH6DSEJmUpjtS/O7jpcZfKPu26xe3/eQgKvXa/s4QQS416lIaUQjoAoKGK0lGpiF8S2Y6YQqvr6hsx8epjIVOZSAnGYexqzuToDRPO41a3VtMGqjlFScKJCsAHB6M5eITJxoyOaUkqRMAd80iytzIH7EgQi2F/zCbilezBZQkiqnEIc5r7CC6RrzW0enz+7xdrbKzLWCqLiWzbb1ARBhIbQhA6lGEqM8NDJMSu+7yWOybiiFHBeiRRvCSHP5Su3+HaaSyFO1iHeXtFijHr15vFlC+m7tkqbZA7GP3wi1YSSjEITvr8q4LoeUBBjXjJiWsY96InJVRSeD8ccZIrZ9g6IXK7ckdS51KnXj7+0ukWtdj1PIeyoJHI3maNC1uewAfOFYzKKDj0QFaJBadvzk8QlxT43AjoJKZ1jIU+TFZNHWU3LfjtcQcgpRC6XO8xyQMya9S9fnnuIjw4ymywLBYSGY5kF3TKPQsuKYlYwLCMq+boTKAUlUExumIGjR5gs2LZiWk5gmbotVRXFsowwHwaxg4WW4qcQyMoXk08QOZLiKyD+bDa/fDk/07TMFZiYLCpfNe/Etp3PV7xKPp+3mYejJ/FKEDeqOIWiUKU8jmE8r1SKnZjGmKQmC+3Yckq0UBQwVX5FmRx8ghAM5SLShvR6f7yEGC8htiv4p35H/kkHJO9aLsuvb5q2DiF8QiDkyrVHea4mEM8oH1djNN60GWCjq4N/Q4ZTdWkOpIlJLrcGURQMkFof0fN4nGoCECyBkEaZf0PKmSFLNEGOeXEHhhz9rCCAUCzfvaO8zb5AbgjiD2QrmbZn0miQXUqbJPuPZXN5RxgGff4QJbRdziUyhf8TBOmhmDlALpO+C4gumr/rBemBzME4Xyw4ieji8/yzLEg+jY7iIAi8xWoyMQdjnYzWHawgVK72iwKhWK4/SFxdnBMEiofmztgKQoY6ZDrYITooX/4sqcttjTWifD5I2ilZldO0w5K0PcR9hSNM1QUgcsSgZbIjtlAfiIH8sthrpBBy0t/KdKQO3lb+8b4kWS4v23E11YTa7xbd5ywgygnEuO8iODW3Xv+h8vnoUljjHsExfN8ITbZ2VSalj8Q+eg5ptSdY+8ZH6Vy/Esw7RCkfuuSIOW3KCaKslcsZ93o85tUbYrhsNdF8XY83IZIMvqmJnSpZ+9omxIp4Pn6oIT4uMnh6LTPl/H00qGcyzecpH4/7ggGxkcGGoKFuacIOdMsyE4hGjG2nU0KrHwQxEmJQceCBjUA3KqQmO4YDO56UdreNAO2+U0kvh4hTRxduzUUfqWU7nRHnY96/7lzPRuP3/ndhiy/nrTrM0xlvJUovcjzkaUYQlh/EaOtNo4TtZlgIKvGRH8cFH3sBXeFSQLtSdP0GNf22bkdBHDtHaWGjfoKxB9Tps2Ezc/DnbDb7gc/j4+Ps4ftNggBj3ENXvdKWqm1qWRKN6LGSlG5m6GhxbWr+qMNL9wKxZ6aV3VIM2ieEFRp2llcSLf9oiAC5uDiuN5v1Zh1HyDHlyUT+Iq8kRWxCxNRUiL4fZdJGn0DNPnVwyTq0OLBDMk37UTFdLZA5jhzR/2+6jYrNj1t/btWXclz/YLhsnTfhqS1b3YKgJi0f+vTkkclYNYpCaq9MUhK2fXQn2/ShIhaGcP+QplkhxCwxoLnY9GJ1fF0ras3n1iXuTjpYU8PlX+e0Ge15Y6ZuQiiozbpnLxtYOzT1FKIKD4hN0fUzH1uPgi+myWSAQPPFmIfxTRfDpvw7dhb1sxay4zoB4qJ130TeOnvg8+3qTBBKSYQo2YA6O9I3NdQUg3lHfEyCMJNpSTBS8pCUeDuaVTZ//47+zYUyzi8/CC5vWmfH8EkwiPq5QxOlKm5apb5WzHJDN1KIeAtiNc2qcKAGbc42BNefjzpd13Xr98+tm/PzS8j5zQ28oQ4G9+zhfa5uByhMQR6eN5fmUHzTx/78MwQjc1TTaVppwkXj7Rc2Itnyh7MMmtl68/7spgW5Ob9v1sVLq9ZsvOsNiYVdaMmnxl04JvcLhUKoFHZAwDGxSUym9TQ6GPYAbIsCn/HjQRfJuVZzRZTWsefSNCSQ73/ufnmH7UxSINIQRVvPWXUHBNfDRjItdmmUJxpUT7cNImyivntDwkjf3qFuwhJ/zKo79QAnF608Ne5VPdbTbCQ2WaKRj5GsKoDgZLRlskoMp9PmS4qNz9dkKqWt2dXFWbcm3mK63V7r2nsnhCQuPqpUWrtCPUaHrweGL9K24wS6r0RBoFOuiHESOlJkBFbEg3B92pcMJQisI+8zhCjvbGwjYf9Bcv3wiHxHaV1ArL1uW766454Tl+xKpVKirh5S8arYEeNvrKDxCvYCOEJZjXSaJdOcJr3GtoKTu6HxlVQ+fq9Wq2M+VmXR+4j37btk06m2Hkla095GS7H299+9KP48tfu/Dn93iaSfWZ5JH83NP/x/yi4v/JWX2+tf+n3/v9nLXvayl73sZS972cte9vKb5T9jCU5Zt1O2NQAAAABJRU5ErkJggg==",[TR] ANADOLU DERNEK
+http://line.liondnscloud.ru:80/726cfd77/091ec755/686882
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="http://103.176.90.118/picons-dino/logos/ucankus.png",[TR] UCANKUS
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259901
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="http://103.176.90.118/picons-dino/logos/tvkayseri.png",[TR] TV KAYSERI
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259902
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="http://103.176.90.118/picons-dino/logos/tvnethd.jpg",[TR] TV NET UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259903
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="http://103.176.90.118/picons-dino/logos/rehbertv.jpg",[TR] REHBER TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259904
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="http://103.176.90.118/picons-dino/logos/koytv.jpg",[TR] KOY TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259905
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="http://103.176.90.118/picons-dino/logos/TLC-HD.png",[TR] TLC UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259906
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="http://103.176.90.118/picons-dino/logos/TLC-HD.png",[TR] TLC TV UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259907
+#EXTINF:-1 group-title="[TR] TURKEY | DIGER" tvg-logo="http://103.176.90.118/picons-dino/logos/akittv.jpg",[TR] AKIT TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259908
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="http://103.176.90.118/picons-dino/logos/cemtv.png",[TR] CEM TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259909
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="http://103.176.90.118/picons-dino/logos/malatya.png",[TR] MALATYA VUSLAT TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259910
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="http://103.176.90.118/picons-dino/logos/brtv.png",[TR] BRTV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259911
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="http://103.176.90.118/picons-dino/logos/lalegul.png",[TR] LALEGÜL TV UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259912
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="http://103.176.90.118/picons-dino/logos/semerkant.jpg",[TR] SEMERKANT UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259913
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="http://103.176.90.118/picons-dino/logos/dosttv.jpeg",[TR] DOST TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259914
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="http://103.176.90.118/picons-dino/logos/KABE-TV.jpeg",[TR] KABE TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259915
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="http://103.176.90.118/picons-dino/logos/trtdiyanet.png",[TR] TRT DIYANET
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259916
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="http://103.176.90.118/picons-dino/logos/powerturk.png",[TR] POWER TV 4K
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259917
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="http://103.176.90.118/picons-dino/logos/powerturk.png",[TR] POWER TURK
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259918
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="http://103.176.90.118/picons-dino/logos/dreamtv.gif",[TR] DREAM TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259919
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="http://103.176.90.118/picons-dino/logos/dreamturk.jpg",[TR] DREAM TÜRK
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259920
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="http://103.176.90.118/picons-dino/logos/trtmuzik.png",[TR] TRT MUZIK
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259921
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="http://103.176.90.118/picons-dino/logos/nr1.jpg",[TR] NR1 DAMAR TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259922
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="http://103.176.90.118/picons-dino/logos/nr1.jpg",[TR] NR1 ASK TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259923
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="http://103.176.90.118/picons-dino/logos/kraltv.png",[TR] KRAL TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259924
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="http://103.176.90.118/picons-dino/logos/kraltv.png",[TR] KRAL POP AKUST?K
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259925
+#EXTINF:-1 group-title="[TR] TURKEY | DIGER",#f#11ffff00###### HABER #####
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259927
+#EXTINF:-1 group-title="[TR] TURKEY | DIGER" tvg-logo="http://103.176.90.118/picons-dino/logos/tele1.jpg",[TR] TELE 1
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259928
+#EXTINF:-1 group-title="[TR] TURKEY | DIGER" tvg-logo="http://103.176.90.118/picons-dino/logos/A-HABER-HD.jpeg",[TR] A HABER UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259929
+#EXTINF:-1 group-title="[TR] TURKEY | DIGER" tvg-logo="http://103.176.90.118/picons-dino/logos/cnnturk.png",[TR] CNN TURK UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259930
+#EXTINF:-1 group-title="[TR] TURKEY | DIGER" tvg-logo="http://103.176.90.118/picons-dino/logos/haberturk.png",[TR] HABERTURK UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259931
+#EXTINF:-1 group-title="[TR] TURKEY | DIGER" tvg-logo="http://103.176.90.118/picons-dino/logos/tgrthaber.png",[TR] TGRT HABER UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259932
+#EXTINF:-1 group-title="[TR] TURKEY | DIGER" tvg-logo="http://103.176.90.118/picons-dino/logos/trthaberhd.png",[TR] TRT HABER UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259933
+#EXTINF:-1 group-title="[TR] TURKEY | DIGER" tvg-logo="http://103.176.90.118/picons-dino/logos/halktv.jpg",[TR] HALK TV UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259934
+#EXTINF:-1 group-title="[TR] TURKEY | DIGER" tvg-logo="http://103.176.90.118/picons-dino/logos/kanal24.png",[TR] KANAL 24 UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259935
+#EXTINF:-1 group-title="[TR] TURKEY | DIGER" tvg-logo="http://103.176.90.118/picons-dino/logos/ntvhd.png",[TR] NTV UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259936
+#EXTINF:-1 group-title="[TR] TURKEY | DIGER" tvg-logo="http://103.176.90.118/picons-dino/logos/ulketv.png",[TR] ULKE TV UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259937
+#EXTINF:-1 group-title="[TR] TURKEY | DIGER" tvg-logo="http://103.176.90.118/picons-dino/logos/24tv.png",[TR] 24 TV UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259938
+#EXTINF:-1 group-title="[TR] TURKEY | DIGER" tvg-logo="http://103.176.90.118/picons-dino/logos/BLOOMBERG-HD.png",[TR] BLOOMBERG HT UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259939
+#EXTINF:-1 group-title="[TR] TURKEY | DIGER" tvg-logo="http://103.176.90.118/picons-dino/logos/globalhaber.png",[TR] GLOBAL HABER UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259940
+#EXTINF:-1 group-title="[TR] TURKEY | DIGER" tvg-logo="http://103.176.90.118/picons-dino/logos/halktv.jpg",[TR] HALK TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259941
+#EXTINF:-1 group-title="[TR] TURKEY | DIGER" tvg-logo="http://103.176.90.118/picons-dino/logos/tvnethd.jpg",[TR] TVNET UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259942
+#EXTINF:-1 group-title="[TR] TURKEY | DIGER" tvg-logo="http://103.176.90.118/picons-dino/logos/benguturk.jpg",[TR] BENGUTURK
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259943
+#EXTINF:-1 group-title="[TR] TURKEY | DIGER" tvg-logo="http://103.176.90.118/picons-dino/logos/tv100.png",[TR] TV100
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259944
+#EXTINF:-1 group-title="[TR] TURKEY | DIGER" tvg-logo="http://103.176.90.118/picons-dino/logos/ulusal.png",[TR] ULUSAL TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259945
+#EXTINF:-1 group-title="[TR] TURKEY | DIGER" tvg-logo="http://103.176.90.118/picons-dino/logos/uzayhaber.jpg",[TR] UZAY HABER
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259946
+#EXTINF:-1 group-title="[TR] TURKEY | COCUK",#f#11ffff00###### COCUK #####
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259947
+#EXTINF:-1 group-title="[TR] TURKEY | COCUK" tvg-logo="http://103.176.90.118/picons-dino/logos/cbeebies.png",[TR] CBEEBIES
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259948
+#EXTINF:-1 group-title="[TR] TURKEY | COCUK" tvg-logo="http://103.176.90.118/picons-dino/logos/smartcocuk.jpg",[TR] COCUK SMART UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259949
+#EXTINF:-1 group-title="[TR] TURKEY | COCUK" tvg-logo="http://103.176.90.118/picons-dino/logos/kukuli.png",[TR] KUKULI TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259950
+#EXTINF:-1 group-title="[TR] TURKEY | COCUK" tvg-logo="http://103.176.90.118/picons-dino/logos/nickjr.png",[TR] NICK JR
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259951
+#EXTINF:-1 group-title="[TR] TURKEY | COCUK" tvg-logo="http://103.176.90.118/picons-dino/logos/trtcocuk.png",[TR] TRT COCUK UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259952
+#EXTINF:-1 group-title="[TR] TURKEY | COCUK" tvg-logo="http://103.176.90.118/picons-dino/logos/babytv.png",[TR] BABY TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259953
+#EXTINF:-1 group-title="[TR] TURKEY | COCUK" tvg-logo="http://103.176.90.118/picons-dino/logos/babytv.png",[TR] BABY TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259954
+#EXTINF:-1 group-title="[TR] TURKEY | COCUK" tvg-logo="http://103.176.90.118/picons-dino/logos/boomeranghd.png",[TR] BOOMERANG UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259955
+#EXTINF:-1 group-title="[TR] TURKEY | COCUK" tvg-logo="http://103.176.90.118/picons-dino/logos/cartoonnetwork.png",[TR] CARTOON NETWORK
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259956
+#EXTINF:-1 group-title="[TR] TURKEY | COCUK" tvg-logo="http://103.176.90.118/picons-dino/logos/cartoonnetworkhd.png",[TR] CARTOON NETWORK UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259957
+#EXTINF:-1 group-title="[TR] TURKEY | COCUK" tvg-logo="http://103.176.90.118/picons-dino/logos/disneychannelhd.png",[TR] DISNEY CHANNEL UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259958
+#EXTINF:-1 group-title="[TR] TURKEY | COCUK" tvg-logo="http://103.176.90.118/picons-dino/logos/disneychannel.png",[TR] DISNEY CHANNEL
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259959
+#EXTINF:-1 group-title="[TR] TURKEY | COCUK" tvg-logo="http://103.176.90.118/picons-dino/logos/disneyjnrhd.png",[TR] DISNEY JR UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259960
+#EXTINF:-1 group-title="[TR] TURKEY | COCUK" tvg-logo="http://103.176.90.118/picons-dino/logos/disneyjunior.png",[TR] DISNEY JUNIOR
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259961
+#EXTINF:-1 group-title="[TR] TURKEY | COCUK" tvg-logo="http://103.176.90.118/picons-dino/logos/trtcocuk.png",[TR] TRT ÇOCUK UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259963
+#EXTINF:-1 group-title="[TR] TURKEY | COCUK" tvg-logo="http://103.176.90.118/picons-dino/logos/trtcocuk.png",[TR] TRT ÇOCUK
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259964
+#EXTINF:-1 group-title="[TR] TURKEY | COCUK" tvg-logo="http://103.176.90.118/picons-dino/logos/nickjr.png",[TR] NICK JR
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259965
+#EXTINF:-1 group-title="[TR] TURKEY | COCUK" tvg-logo="http://103.176.90.118/picons-dino/logos/nickelodeonturkey.png",[TR] NICKELODEON TURKIYE
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259966
+#EXTINF:-1 group-title="[TR] TURKEY | COCUK" tvg-logo="http://103.176.90.118/picons-dino/logos/nickelodeon.png",[TR] N?CKELODEON
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259967
+#EXTINF:-1 group-title="[TR] TURKEY | COCUK" tvg-logo="http://103.176.90.118/picons-dino/logos/minikacocuk.jpg",[TR] M?N?KA ÇOCUK UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259968
+#EXTINF:-1 group-title="[TR] TURKEY | COCUK" tvg-logo="http://103.176.90.118/picons-dino/logos/minikacocuk.jpg",[TR] MINIKA COCUK
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259969
+#EXTINF:-1 group-title="[TR] TURKEY | COCUK" tvg-logo="http://103.176.90.118/picons-dino/logos/minikago.jpg",[TR] M?N?KA GO UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259970
+#EXTINF:-1 group-title="[TR] TURKEY | COCUK" tvg-logo="http://103.176.90.118/picons-dino/logos/minikago.jpg",[TR] MINIKA GO TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259971
+#EXTINF:-1 group-title="[TR] TURKEY | COCUK" tvg-logo="http://103.176.90.118/picons-dino/logos/niloya.png",[TR] NILOYA TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259972
+#EXTINF:-1 group-title="[TR] TURKEY | COCUK" tvg-logo="http://103.176.90.118/picons-dino/logos/rafadantayfa.jpg",[TR] RAFADAN TAYFA TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259974
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL",#f#11ffff00###### CINEMA #####
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259977
+#EXTINF:-1 group-title="[TR] TURKEY | SINEMA" tvg-logo="http://103.176.90.118/picons-dino/logos/beinmoviesactionhd.png",[TR] beIN MOVIES ACTION UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259978
+#EXTINF:-1 group-title="[TR] TURKEY | SINEMA" tvg-logo="http://103.176.90.118/picons-dino/logos/beinmoviesactionhd.png",[TR] beIN MOVIES ACTION HD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259979
+#EXTINF:-1 group-title="[TR] TURKEY | SINEMA" tvg-logo="http://103.176.90.118/picons-dino/logos/beinmoviesaction2hd.png",[TR] beIN MOVIES ACTION 2 HD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259980
+#EXTINF:-1 group-title="[TR] TURKEY | SINEMA" tvg-logo="http://103.176.90.118/picons-dino/logos/beinmoviesfamilyhd.png",[TR] beIN MOVIES FAMILY UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259981
+#EXTINF:-1 group-title="[TR] TURKEY | SINEMA" tvg-logo="http://103.176.90.118/picons-dino/logos/beinmoviesfamilyhd.png",[TR] beIN MOVIES FAMILY HD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259982
+#EXTINF:-1 group-title="[TR] TURKEY | SINEMA" tvg-logo="http://103.176.90.118/picons-dino/logos/beinmoviespremierehd.png",[TR] beIN MOVIES PREMIERE UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259983
+#EXTINF:-1 group-title="[TR] TURKEY | SINEMA" tvg-logo="http://103.176.90.118/picons-dino/logos/beinmoviespremierehd.png",[TR] beIN MOVIES PREMIER HD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259984
+#EXTINF:-1 group-title="[TR] TURKEY | SINEMA" tvg-logo="http://103.176.90.118/picons-dino/logos/beinmoviespremiere2hd.png",[TR] beIN MOVIES PREMIER 2 HD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259985
+#EXTINF:-1 group-title="[TR] TURKEY | SINEMA" tvg-logo="http://103.176.90.118/picons-dino/logos/beinmoviesstars.png",[TR] beIN MOVIES STARS UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259986
+#EXTINF:-1 group-title="[TR] TURKEY | SINEMA" tvg-logo="http://103.176.90.118/picons-dino/logos/beinmoviesstars.png",[TR] beIN MOVIES STARS HD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259987
+#EXTINF:-1 group-title="[TR] TURKEY | SINEMA" tvg-logo="http://103.176.90.118/picons-dino/logos/beinmoviesturk.png",[TR] beIN MOVIES TURK UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259988
+#EXTINF:-1 group-title="[TR] TURKEY | SINEMA" tvg-logo="http://103.176.90.118/picons-dino/logos/beinmoviesturk.png",[TR] beIN MOVIES TURK HD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259989
+#EXTINF:-1 group-title="[TR] TURKEY | SINEMA" tvg-logo="http://103.176.90.118/picons-dino/logos/beinseriescomedyhd.png",[TR] beIN SERIES COMEDY UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259992
+#EXTINF:-1 group-title="[TR] TURKEY | SINEMA" tvg-logo="http://103.176.90.118/picons-dino/logos/beinseriesdramahd.png",[TR] beIN SERIES DRAMA UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259993
+#EXTINF:-1 group-title="[TR] TURKEY | SINEMA" tvg-logo="http://103.176.90.118/picons-dino/logos/beinseriesscifi.png",[TR] beIN SERIES SCIFI UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259994
+#EXTINF:-1 group-title="[TR] TURKEY | SINEMA" tvg-logo="http://103.176.90.118/picons-dino/logos/beinseriesvice.png",[TR] beIN SERIES VICE UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259995
+#EXTINF:-1 group-title="[TR] TURKEY | SINEMA" tvg-logo="http://103.176.90.118/picons-dino/logos/ELIT-BOXOFFICE-1.png",[TR] ELIT BOX OFFICE 1 UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259996
+#EXTINF:-1 group-title="[TR] TURKEY | SINEMA" tvg-logo="http://103.176.90.118/picons-dino/logos/ELIT-BOXOFFICE-1.png",[TR] ELIT BOX OFFICE 1 UHD+
+http://line.liondnscloud.ru:80/726cfd77/091ec755/259997
+#EXTINF:-1 group-title="[TR] TURKEY | SINEMA" tvg-logo="http://103.176.90.118/picons-dino/logos/beinseriescomedyhd.png",[TR] beIN SERIES COMEDY UHD+
+http://line.liondnscloud.ru:80/726cfd77/091ec755/260002
+#EXTINF:-1 group-title="[TR] TURKEY | SINEMA" tvg-logo="http://103.176.90.118/picons-dino/logos/beinseriesdramahd.png",[TR] beIN SERIES DRAMA UHD+
+http://line.liondnscloud.ru:80/726cfd77/091ec755/260003
+#EXTINF:-1 group-title="[TR] TURKEY | SINEMA" tvg-logo="http://103.176.90.118/picons-dino/logos/beinseriesscifi.png",[TR] beIN SERIES SCI-FI UHD+
+http://line.liondnscloud.ru:80/726cfd77/091ec755/260004
+#EXTINF:-1 group-title="[TR] TURKEY | SINEMA" tvg-logo="http://103.176.90.118/picons-dino/logos/beinseriesvice.png",[TR] beIN SERIES VICE UHD+
+http://line.liondnscloud.ru:80/726cfd77/091ec755/260005
+#EXTINF:-1 group-title="[TR] TURKEY | SINEMA" tvg-logo="http://103.176.90.118/picons-dino/logos/dizismartmax.jpg",[TR] DIZI SMART MAX
+http://line.liondnscloud.ru:80/726cfd77/091ec755/260013
+#EXTINF:-1 group-title="[TR] TURKEY | SINEMA" tvg-logo="http://103.176.90.118/picons-dino/logos/dizismart.png",[TR] DIZI SMART PREMIUM UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/260014
+#EXTINF:-1 group-title="[TR] TURKEY | SINEMA" tvg-logo="http://103.176.90.118/picons-dino/logos/sinema.png",[TR] SINEMA TV2
+http://line.liondnscloud.ru:80/726cfd77/091ec755/260022
+#EXTINF:-1 group-title="[TR] TURKEY | SINEMA" tvg-logo="http://103.176.90.118/picons-dino/logos/sinema.png",[TR] SiNEMA YERLi
+http://line.liondnscloud.ru:80/726cfd77/091ec755/260023
+#EXTINF:-1 group-title="[TR] TURKEY | SINEMA" tvg-logo="http://103.176.90.118/picons-dino/logos/trex.png",[TR] TREX KEMAL SUNAL
+http://line.liondnscloud.ru:80/726cfd77/091ec755/260026
+#EXTINF:-1 group-title="[TR] TURKEY | SINEMA" tvg-logo="http://103.176.90.118/picons-dino/logos/trex.png",[TR] TREX KOMEDI UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/260030
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="http://103.176.90.118/picons-dino/logos/FX-HD.jpg",[TR] FX UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/260042
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL",#f#11ffff00###### BELGESEL #####
+http://line.liondnscloud.ru:80/726cfd77/091ec755/260045
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="http://103.176.90.118/picons-dino/logos/trtbelgeselhd.png",[TR] TRT BELGESEL UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/260046
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="http://103.176.90.118/picons-dino/logos/trtbelgesel.png",[TR] TRT BELGESEL
+http://line.liondnscloud.ru:80/726cfd77/091ec755/260047
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="http://103.176.90.118/picons-dino/logos/trtbelgesel.png",[TR] TRT BELGESEL
+http://line.liondnscloud.ru:80/726cfd77/091ec755/260048
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="http://103.176.90.118/picons-dino/logos/ANIMAL-PLANET-HD.png",[TR] ANIMAL PLANET UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/260049
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="http://103.176.90.118/picons-dino/logos/ANIMAL-PLANET-HD.png",[TR] ANIMAL PLANET UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/260050
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="http://103.176.90.118/picons-dino/logos/bbcearth.png",[TR] BBC EARTH
+http://line.liondnscloud.ru:80/726cfd77/091ec755/260051
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="http://103.176.90.118/picons-dino/logos/bbcearthhd.png",[TR] BBC EARTH UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/260052
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="http://103.176.90.118/picons-dino/logos/beingurmehd.png",[TR] beIN GURME UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/260053
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="http://103.176.90.118/picons-dino/logos/discoveryid.png",[TR] DISCOVERY IDX UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/260054
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="http://103.176.90.118/picons-dino/logos/discoverychannel.png",[TR] DISCOVERY CHANNEL
+http://line.liondnscloud.ru:80/726cfd77/091ec755/260055
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="http://103.176.90.118/picons-dino/logos/discoverychannelhd.png",[TR] DISCOVERY CHANNEL UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/260056
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="http://103.176.90.118/picons-dino/logos/discoverysciencehd.png",[TR] DISCOVERY SCIENCE UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/260057
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="http://103.176.90.118/picons-dino/logos/discoverysciencehd.png",[TR] DISCOVERY SCIENCE UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/260058
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="http://103.176.90.118/picons-dino/logos/nationalgeographichd.png",[TR] NATIONAL GEOGRAPHIC UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/260059
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="http://103.176.90.118/picons-dino/logos/natgeohd.png",[TR] NATIONAL GEO UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/260060
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="http://103.176.90.118/picons-dino/logos/natgeowildhd.png",[TR] NAT GEO WILD UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/260062
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="http://103.176.90.118/picons/logos/TURKIYE/NOW.png",TR - NOW HD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/1184226
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="http://103.176.90.118/picons-dino/logos/yabantv.jpg",[TR] YABAN TV UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/260063
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="http://103.176.90.118/picons-dino/logos/24kitchenhd.png",[TR] 24 KITCHEN UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/260064
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="http://103.176.90.118/picons-dino/logos/historychannel.png",[TR] HISTORY CHANNEL
+http://line.liondnscloud.ru:80/726cfd77/091ec755/260065
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="http://103.176.90.118/picons-dino/logos/viasathistory.png",[TR] HISTORY VIASAT UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/260066
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="http://103.176.90.118/picons-dino/logos/viasatnaturehd_viasathistoryhd.png",[TR] VIASAT NATURE/HISTORY UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/260067
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="http://103.176.90.118/picons-dino/logos/dmaxhd.png",[TR] DMAX UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/260068
+#EXTINF:-1 group-title="[TR] TURKEY | ULUSAL" tvg-logo="http://103.176.90.118/picons-dino/logos/yabantv.jpg",[TR] YABAN TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/260069
+#EXTINF:-1 group-title="[TR] TURKEY | SPOR",#f#11ffff00######  beIN SPORTS  #####
+http://line.liondnscloud.ru:80/726cfd77/091ec755/686362
+#EXTINF:-1 group-title="[TR] TURKEY | SPOR" tvg-logo="http://103.176.90.118/picons/logos/BEIN-SPORT--HABER.png",[TR] beIN SPORTS HABER HD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/686359
+#EXTINF:-1 group-title="[TR] TURKEY | SPOR" tvg-logo="http://103.176.90.118/picons/logos/BEIN-SPORT-1-NP.png",[TR] beIN SPORT 1 HD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/686360
+#EXTINF:-1 group-title="[TR] TURKEY | SPOR" tvg-logo="http://103.176.90.118/picons/logos/BEIN-SPORT-2-NP.png",[TR] beIN SPORT 2 HD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/686363
+#EXTINF:-1 group-title="[TR] TURKEY | SPOR" tvg-logo="http://103.176.90.118/picons/logos/BEIN-SPORT-3-NP.jpg",[TR] beIN SPORT 3 HD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/686364
+#EXTINF:-1 group-title="[TR] TURKEY | SPOR" tvg-logo="http://103.176.90.118/picons/logos/BEIN-SPORT-4-NP.png",[TR] beIN SPORT 4 HD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/686365
+#EXTINF:-1 group-title="[TR] TURKEY | SPOR" tvg-logo="http://103.176.90.118/picons/logos/BEINSPORTS-1-MAX-HD.png",[TR] beIN SPORT MAX 1 HD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/686439
+#EXTINF:-1 group-title="[TR] TURKEY | SPOR" tvg-logo="http://103.176.90.118/picons/logos/BEINSPORTS-2-MAX-HD.jpeg",[TR] beIN SPORT MAX 2 HD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/686503
+#EXTINF:-1 group-title="[TR] TURKEY | SPOR",#f#11ffff00######. EXXEN SPORTS. #####
+http://line.liondnscloud.ru:80/726cfd77/091ec755/686505
+#EXTINF:-1 group-title="[TR] TURKEY | SPOR" tvg-logo="http://103.176.90.118/picons/logos/EXXEN-SPORTS.png",[TR] EXXEN SPORT 1 HD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/686504
+#EXTINF:-1 group-title="[TR] TURKEY | SPOR" tvg-logo="http://103.176.90.118/picons/logos/EXXEN-SPORTS.png",[TR] EXXEN SPORT 2 HD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/686506
+#EXTINF:-1 group-title="[TR] TURKEY | SPOR" tvg-logo="http://103.176.90.118/picons/logos/EXXEN-SPORTS.png",[TR] EXXEN SPORT 3 HD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/686507
+#EXTINF:-1 group-title="[TR] TURKEY | SPOR" tvg-logo="http://103.176.90.118/picons/logos/logos/EXXEN-SPORT.png",[TR] EXXEN SPORT 4 HD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/1053274
+#EXTINF:-1 group-title="[TR] TURKEY | SPOR" tvg-logo="http://103.176.90.118/picons/logos/logos/EXXEN-SPORT.png",[TR] EXXEN SPORT 5 HD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/1053273
+#EXTINF:-1 group-title="[TR] TURKEY | SPOR" tvg-logo="http://103.176.90.118/picons/logos/logos/EXXEN-SPORT.png",[TR] EXXEN SPORT 6 HD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/1053272
+#EXTINF:-1 group-title="[TR] TURKEY | SPOR" tvg-logo="http://103.176.90.118/picons/logos/logos/EXXEN-SPORT.png",[TR] EXXEN SPORT 7 HD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/1053271
+#EXTINF:-1 group-title="[TR] TURKEY | SPOR" tvg-logo="http://103.176.90.118/picons/logos/logos/EXXEN-SPORT.png",[TR] EXXEN SPORT 8 HD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/1053270
+#EXTINF:-1 group-title="[TR] TURKEY | SPOR",#f#11ffff00###### SPORT #####
+http://line.liondnscloud.ru:80/726cfd77/091ec755/260071
+#EXTINF:-1 group-title="[TR] TURKEY | SPOR" tvg-logo="http://103.176.90.118/picons-dino/logos/exxen.png",[TR] EXXEN SPORT 1 HD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/618910
+#EXTINF:-1 group-title="[TR] TURKEY | SPOR" tvg-logo="http://103.176.90.118/picons-dino/logos/exxen.png",[TR] EXXEN SPORT 2 HD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/618909
+#EXTINF:-1 group-title="[TR] TURKEY | SPOR" tvg-logo="http://103.176.90.118/picons-dino/logos/exxen.png",[TR] EXXEN SPORT 3 HD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/618908
+#EXTINF:-1 group-title="[TR] TURKEY | SPOR" tvg-logo="http://103.176.90.118/picons-dino/logos/exxen.png",D-[TR] EXXEN SPOR 1 FHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/618907
+#EXTINF:-1 group-title="[TR] TURKEY | SPOR" tvg-logo="http://103.176.90.118/picons-dino/logos/exxen.png",D-[TR] EXXEN SPOR 2 FHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/618906
+#EXTINF:-1 group-title="[TR] TURKEY | SPOR" tvg-logo="http://103.176.90.118/picons-dino/logos/exxen.png",D-[TR] EXXEN SPOR 3 FHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/618905
+#EXTINF:-1 group-title="[TR] TURKEY | SPOR" tvg-logo="http://103.176.90.118/picons-dino/logos/beinsports1hd.png",[TR] beIN SPORT 1 FHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/260072
+#EXTINF:-1 group-title="[TR] TURKEY | SPOR" tvg-logo="http://103.176.90.118/picons-dino/logos/beinsports1hd.png",[TR] beIN SPORT 1 UHD HEVC
+http://line.liondnscloud.ru:80/726cfd77/091ec755/260073
+#EXTINF:-1 group-title="[TR] TURKEY | SPOR" tvg-logo="http://103.176.90.118/picons-dino/logos/beinsports2hd.png",[TR] beIN SPORT 2 UHD HEVC
+http://line.liondnscloud.ru:80/726cfd77/091ec755/260074
+#EXTINF:-1 group-title="[TR] TURKEY | SPOR" tvg-logo="http://103.176.90.118/picons-dino/logos/beinsports2hd.png",[TR] beIN SPORT 2 UHD+
+http://line.liondnscloud.ru:80/726cfd77/091ec755/260075
+#EXTINF:-1 group-title="[TR] TURKEY | SPOR" tvg-logo="http://103.176.90.118/picons-dino/logos/beinsports3hd.png",[TR] beIN SPORT 3 FHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/260076
+#EXTINF:-1 group-title="[TR] TURKEY | SPOR" tvg-logo="http://103.176.90.118/picons-dino/logos/beinsports3hd.png",[TR] beIN SPORT 3 UHD HEVC
+http://line.liondnscloud.ru:80/726cfd77/091ec755/260077
+#EXTINF:-1 group-title="[TR] TURKEY | SPOR" tvg-logo="http://103.176.90.118/picons-dino/logos/beinsports4.png",[TR] beIN SPORT 4 FHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/260078
+#EXTINF:-1 group-title="[TR] TURKEY | SPOR" tvg-logo="http://103.176.90.118/picons-dino/logos/beinsports4.png",[TR] beIN SPORT 4 UHD HEVC
+http://line.liondnscloud.ru:80/726cfd77/091ec755/260079
+#EXTINF:-1 group-title="[TR] TURKEY | SPOR" tvg-logo="http://103.176.90.118/picons-dino/logos/beinsports1hd.png",[TR] beIN SPORT 1 UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/260080
+#EXTINF:-1 group-title="[TR] TURKEY | SPOR" tvg-logo="http://103.176.90.118/picons-dino/logos/beinsports2hd.png",[TR] beIN SPORT 2 UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/260081
+#EXTINF:-1 group-title="[TR] TURKEY | SPOR" tvg-logo="http://103.176.90.118/picons-dino/logos/beinsports3.png",[TR] beIN SPORT 3 UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/260082
+#EXTINF:-1 group-title="[TR] TURKEY | SPOR" tvg-logo="http://103.176.90.118/picons-dino/logos/beinsports4.png",[TR] beIN SPORT 4 UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/260083
+#EXTINF:-1 group-title="[TR] TURKEY | SPOR" tvg-logo="http://103.176.90.118/picons-dino/logos/beinmax1.png",[TR] beIN SPORT MAX 1 FHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/260084
+#EXTINF:-1 group-title="[TR] TURKEY | SPOR" tvg-logo="http://103.176.90.118/picons-dino/logos/beinmax2.png",[TR] beIN SPORT MAX 2 FHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/260085
+#EXTINF:-1 group-title="[TR] TURKEY | SPOR" tvg-logo="http://103.176.90.118/picons-dino/logos/smartspor.png",[TR] SMART SPORT UHD+
+http://line.liondnscloud.ru:80/726cfd77/091ec755/260086
+#EXTINF:-1 group-title="[TR] TURKEY | SPOR" tvg-logo="http://103.176.90.118/picons-dino/logos/smartspor.png",[TR] SMART SPORT UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/260087
+#EXTINF:-1 group-title="[TR] TURKEY | SPOR",[TR] SMART SPORT 2 UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/943222
+#EXTINF:-1 group-title="[TR] TURKEY | SPOR" tvg-logo="http://103.176.90.118/picons/logos/USA/TIVIBUSPOR.png",[TR] TIVIBU SPORT UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/1060514
+#EXTINF:-1 group-title="[TR] TURKEY | SPOR" tvg-logo="http://103.176.90.118/picons-dino/logos/tivibu1.jpg",[TR] TIVIBU SPORT 1 UHD+
+http://line.liondnscloud.ru:80/726cfd77/091ec755/260088
+#EXTINF:-1 group-title="[TR] TURKEY | SPOR" tvg-logo="http://103.176.90.118/picons-dino/logos/tivibu1.jpg",[TR] TIVIBU SPORT 1 UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/260089
+#EXTINF:-1 group-title="[TR] TURKEY | SPOR" tvg-logo="http://103.176.90.118/picons-dino/logos/tivibu2.jpg",[TR] TIVIBU SPORT 2 UHD+
+http://line.liondnscloud.ru:80/726cfd77/091ec755/260090
+#EXTINF:-1 group-title="[TR] TURKEY | SPOR" tvg-logo="http://103.176.90.118/picons-dino/logos/tivibu2.jpg",[TR] TIVIBU SPORT 2 UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/260091
+#EXTINF:-1 group-title="[TR] TURKEY | SPOR" tvg-logo="http://103.176.90.118/picons/logos/logos/TIVIBU-SPORT-3.png",[TR] TIVIBU SPORT 3 UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/1035121
+#EXTINF:-1 group-title="[TR] TURKEY | SPOR" tvg-logo="http://103.176.90.118/picons/logos/USA/TIVIBUSPOR.png",[TR] TIVIBU SPORT 4 UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/1060515
+#EXTINF:-1 group-title="[TR] TURKEY | SPOR" tvg-logo="http://103.176.90.118/picons-dino/logos/trtsporhd.png",[TR] TRT SPOR FHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/260092
+#EXTINF:-1 group-title="[TR] TURKEY | SPOR" tvg-logo="http://103.176.90.118/picons-dino/logos/trtsporhd.png",[TR] TRT SPOR UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/260093
+#EXTINF:-1 group-title="[TR] TURKEY | SPOR" tvg-logo="http://103.176.90.118/picons-dino/logos/trtsporhd.png",[TR] TRT SPORT 2 UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/260094
+#EXTINF:-1 group-title="[TR] TURKEY | SPOR" tvg-logo="http://103.176.90.118/picons-dino/logos/A-SPOR-HD.jpeg",[TR] A SPOR FHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/260095
+#EXTINF:-1 group-title="[TR] TURKEY | SPOR" tvg-logo="http://103.176.90.118/picons-dino/logos/A-SPOR-HD.jpeg",[TR] A SPOR UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/260096
+#EXTINF:-1 group-title="[TR] TURKEY | SPOR" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/1288110.png",TR - S SPORT PLUS+1
+http://line.liondnscloud.ru:80/726cfd77/091ec755/1288110
+#EXTINF:-1 group-title="[TR] TURKEY | SPOR" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/1288111.png",TR - S SPORT PLUS+2
+http://line.liondnscloud.ru:80/726cfd77/091ec755/1288111
+#EXTINF:-1 group-title="[TR] TURKEY | SPOR" tvg-logo="http://103.176.90.118/picons/logos/S-SPORT-PLUS.png",[TR]  S SPORT PLUS HD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/943835
+#EXTINF:-1 group-title="[TR] TURKEY | SPOR" tvg-logo="http://103.176.90.118/picons/iptvlogos/SSPORT_1.png",[TR] S SPORT 1
+http://line.liondnscloud.ru:80/726cfd77/091ec755/683162
+#EXTINF:-1 group-title="[TR] TURKEY | SPOR" tvg-logo="http://103.176.90.118/picons/iptvlogos/SSPORT_1.png",[TR] S SPORT 2
+http://line.liondnscloud.ru:80/726cfd77/091ec755/683163
+#EXTINF:-1 group-title="[TR] TURKEY | SPOR" tvg-logo="http://103.176.90.118/picons-dino/logos/eurosport1hd.png",[TR] EUROSPORT 1 UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/260097
+#EXTINF:-1 group-title="[TR] TURKEY | SPOR" tvg-logo="http://103.176.90.118/picons-dino/logos/eurosport2hd.png",[TR] EUROSPORT 2 UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/260098
+#EXTINF:-1 group-title="[TR] TURKEY | SPOR" tvg-logo="http://103.176.90.118/picons-dino/logos/GALATASARAY-TV-HD.png",[TR] GALATASARAY TV UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/260099
+#EXTINF:-1 group-title="[TR] TURKEY | SPOR" tvg-logo="http://103.176.90.118/picons-dino/logos/fenerbahcetv.Jpeg",[TR] FENERBAHÇE TV UHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/260100
+#EXTINF:-1 group-title="[TR] TURKEY | SPOR" tvg-logo="http://103.176.90.118/picons-dino/logos/tjktv.png",[TR] TJK TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/260103
+#EXTINF:-1 group-title="[TR] TURKEY | TABII SPOR" tvg-logo="http://103.176.90.118/picons/logos/logos/TABII.png",#f#11ffff00######## TABII SPORT ᴿᴬᵂ #######
+http://line.liondnscloud.ru:80/726cfd77/091ec755/1161544
+#EXTINF:-1 group-title="[TR] TURKEY | TABII SPOR" tvg-logo="http://103.176.90.118/picons/logos/logos/TABII.png",[TR] TABII SPORT
+http://line.liondnscloud.ru:80/726cfd77/091ec755/1161543
+#EXTINF:-1 group-title="[TR] TURKEY | TABII SPOR" tvg-logo="http://103.176.90.118/picons/logos/logos/TABII.png",[TR] TABII SPORT 1
+http://line.liondnscloud.ru:80/726cfd77/091ec755/1161542
+#EXTINF:-1 group-title="[TR] TURKEY | TABII SPOR" tvg-logo="http://103.176.90.118/picons/logos/logos/TABII.png",[TR] TABII SPORT 2
+http://line.liondnscloud.ru:80/726cfd77/091ec755/1161541
+#EXTINF:-1 group-title="[TR] TURKEY | TABII SPOR" tvg-logo="http://103.176.90.118/picons/logos/logos/TABII.png",[TR] TABII SPORT 3
+http://line.liondnscloud.ru:80/726cfd77/091ec755/1161540
+#EXTINF:-1 group-title="[TR] TURKEY | TABII SPOR" tvg-logo="http://103.176.90.118/picons/logos/logos/TABII.png",[TR] TABII SPORT 4
+http://line.liondnscloud.ru:80/726cfd77/091ec755/1161539
+#EXTINF:-1 group-title="[TR] TURKEY | TABII SPOR" tvg-logo="http://103.176.90.118/picons/logos/logos/TABII.png",[TR] TABII SPORT 5
+http://line.liondnscloud.ru:80/726cfd77/091ec755/1161538
+#EXTINF:-1 group-title="[TR] TURKEY | TABII SPOR" tvg-logo="http://103.176.90.118/picons/logos/logos/TABII.png",[TR] TABII SPORT 6
+http://line.liondnscloud.ru:80/726cfd77/091ec755/1161537
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: GIRLS OUT WEST 4K
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629362
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: ADULT 3
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629289
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: CANDY TV FHD (S)
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629189
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: ADULT TINY4K 2 TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629281
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: ADULT TINY4K 3 TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629283
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: ALBA XXX 2
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629199
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: ALBA XXX 3
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629176
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: ALBA XXX 4
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629217
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: ALBA XXX 5
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629223
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: ANAL TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629292
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: PLAYBOY TV FHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629329
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: AST TV 1
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629170
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: VIVID RED TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629401
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: BARELY LEGAL
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629258
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: BARELY LEGAL TV (S)
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629193
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: SL HOT FHD (H)
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629137
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: BEATE-UHSE.TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629275
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: BIG ASS 4K
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629394
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: BIG ASS TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629297
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: BIG DICK TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629299
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: HOT XXL HD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629286
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: PENTHOUSE QUICKIES HD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629211
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: BLACK OF BLONDES 1 TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629124
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: BLACK OF BLONDES 2 TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629161
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: BLACKED 1 TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629180
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: BLACKED RAW TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629166
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: DAUGHTER SWAP 4K
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629377
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: BLOWJOB
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629291
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: BLOWJOB TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629290
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: BLUE HUSTLER
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629253
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: BLUE HUSTLER HD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629252
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: TUSHY TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629192
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: BRAZZERS TV EUROPE
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629227
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: BRAZZERS TV HD+
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629261
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: BRUNETTE TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629284
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: CANDY 4K
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629388
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: CANDYMAN HD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629309
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: CASUAL TEEN SEX 1 TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629242
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: CASUAL TEEN SEX 1 TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629244
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: XY PLUS  TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629243
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: CENTO X CENTO
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629273
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: CENTO X CENTO (H)
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629188
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: CENTOXCENTO TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629123
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: COMPILATION TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629366
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: CUCKOLD TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629380
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: CZECH
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629141
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: DICK DRAINERS 4K
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629373
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: DORCEL 4K
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629372
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: DORCEL TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629257
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: DORCEL TV FHD (H)
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629187
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: DORCEL TV XXX FHD (H)
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629186
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: DORCEL XXX  HD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629205
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: PENTHOUSE GOLD HD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629210
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: DUSK!
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629220
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: DUSK! DELUXE
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629256
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: DREAM PORN HD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629267
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: DUTCH PORN TV 13
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629272
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: DUTCH PORN TV 3
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629163
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: DUTCH PORN TV 6
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629169
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: PLAYBOY TV 2 FHD (H)
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629148
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: DUTCH PORN TV 8
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629128
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: SUPER ONE FHD (H)
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629127
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: ERO X FHD (S)
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629184
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: EROX
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629277
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: EROX XXX
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629278
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: EROXXX TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629122
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: DORCEL HD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629204
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: EVIL ANGEL EUROPE
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629235
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: EXTASY TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629179
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: EXXXOTICA TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629262
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: XY MIX FHD (H)
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629119
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: FAP TV 2
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629229
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: FAP TV 3
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629196
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: FAP TV 4
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629195
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: FAP TV ANAL
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629194
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: FAP TV COMPILATION TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629396
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: XY MIX HD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629216
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: FASHION TV MIDNITE SECRETS
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629171
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: BROKEN MILF 4K
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629390
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: FILMON TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629306
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: FILMON TV 2
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629307
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: FILMON TV MAN2MAN
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629301
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: FIT 18 TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629295
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: N1 ADU[LT] BABES 1 FHD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629341
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: FREE X TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629271
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: FREE X TV HQ
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629270
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: FRENCH LOVER TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629259
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: CUM4K 1 4K
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629382
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: GAY
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629398
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: PRIVATE TV FHD (H)
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629146
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: HUSTLER HD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629201
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: HUSTLER HD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/761152
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: HUSTLER TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629221
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: IFLIXBLONDE TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629167
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: VERONICA AVLUV 4
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629228
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: INTERRACIAL TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629268
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: INTERRACIAL TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629237
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: JASMIN 4K
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629352
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: JASMIN TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629303
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: JUICY
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629172
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: LATINA TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629165
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: LEGAL TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629287
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: LEO TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629276
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: LIVE CAMS TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629149
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: POV MASTERS TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629233
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: MIA KHALIFA
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629347
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: MIAMI TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629159
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: MILF TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629296
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: MiLF TV (H)
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629168
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: MOVIES CINEMA EROTIC 1
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629151
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: EMANUELLE FHD (S)
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629185
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: MOVIES CINEMA EROTIC 3
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629191
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: N1 ADU[LT] BLACKED
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629337
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: N1 ADU[LT] BLACKED 3 HD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629335
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: N1 BLACKED 5
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629247
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: NAUGHTY TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629288
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: NET VIDEO GIRLS TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629178
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: NET XXX
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629293
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: NUART TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629260
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: ONLYFANS MIX TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629274
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: SWEETHEART PORN TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629200
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: PASSION XXX
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629331
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: PENTHOUSE 2 TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629144
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: PENTHOUSE GOLD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629279
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: PENTHOUSE GOLD FHD (H)
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629162
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: PINK EROTIC
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629236
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: PINK EROTIC 2 (H)
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629160
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: PINK EROTIC 4 (H)
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629158
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: PINK EROTIC 6
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629241
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: PINK EROTIC 6 (H)
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629156
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: PINK EROTIC 7 (H)
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629155
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: PINK O CLUB (H)
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629154
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: PINK O CLUB 2 (H)
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629153
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: PINKO CLUB
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629265
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: PLAYBOY
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629248
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: PLAYBOY EUROPE HD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629250
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: PLAYBOY EUROPE FHD (S)
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629152
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: PLAYHOUSE
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629294
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: porn 6
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629404
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: porn 8
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629125
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: PORNO CASTING TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629249
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: PORNO MOVIES TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629240
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: PORNSTAR TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629197
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: PREMIUM PENTHOUSE
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629157
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: PREMIUM PINK EROTIC 2
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629238
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: PREMIUM PINK EROTIC 5
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629232
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: PRIVATE HD+
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629139
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: PRIVATE SPICE
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629305
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: PRIVATE TV HD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629203
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: BLEU TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629145
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: PURE BABES TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629264
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: REALITY KINGS TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629225
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: RED HOT TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/761153
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: REDLIGHT FHD (H)
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629143
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: ROUGE TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629126
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: ROUGH
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629399
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: EXXXOTICA FHD (S)
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629181
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: PLAYHOUSE FHD (H)
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629147
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: SHAGGING MOMS TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629226
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: SECRET CIRCLE TV (S)
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629142
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: SEX ATION
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629300
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: SEX PRIVE
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629280
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: SEXTREME TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629231
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: SEXY HOT
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629320
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: SEXY MIC LICKING TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629239
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: SUPER 2 TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629230
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: SUPERONE TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629183
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: SUPER ONE HD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629212
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: HOT XXL FHD (H)
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629174
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: HUSTLER TV FHD (H)
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629173
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: THREESOME TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629175
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: VIVID RED HD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629206
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: VIVID TOUCH
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629219
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: VIXEN HD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629207
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: VIXEN TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629150
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: X1-BIZARRE TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629282
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: BABES TV FHD (S)
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629198
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: XXL
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629222
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: ATK GIRLFRIENDS TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629121
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: XY MAX FHD (H)
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629120
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: XY MIX TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629140
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: XY PLUS HD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629214
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: YOUNG SEX ADULTS TV
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629218
+#EXTINF:-1 group-title="ADULT 18+" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png",XX: REDLIGHT HD
+http://line.liondnscloud.ru:80/726cfd77/091ec755/629202
