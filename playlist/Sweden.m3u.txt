@@ -1,0 +1,118 @@
+#EXTINF:-1,SE: Boomerang
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2440.ts
+#EXTINF:-1,SE: Disney Channel
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2439.ts
+#EXTINF:-1,SE: Disney XD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2436.ts
+#EXTINF:-1,SE: Eurosport 2
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2435.ts
+#EXTINF:-1,SE: Eurosport 1
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2434.ts
+#EXTINF:-1,SE: ***** 10
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2433.ts
+#EXTINF:-1,SE: ***** 11
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2432.ts
+#EXTINF:-1,SE: ***** 5
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2431.ts
+#EXTINF:-1,SE: ***** 9
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2430.ts
+#EXTINF:-1,SE: Kunskapskanalen
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2429.ts
+#EXTINF:-1,SE: NAT GEO WILD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2427.ts
+#EXTINF:-1,SE: National Geo
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2426.ts
+#EXTINF:-1,SE: Nickelodeon JR
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2425.ts
+#EXTINF:-1,SE: SF Kanalen
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2424.ts
+#EXTINF:-1,SE: Sjuan
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2423.ts
+#EXTINF:-1,SE: SVT 1 HD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2420.ts
+#EXTINF:-1,SE: SVT 2HD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2417.ts
+#EXTINF:-1,SE: TLC Sverige
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2416.ts
+#EXTINF:-1,SE: TV 4
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2415.ts
+#EXTINF:-1,SE: TV10
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2413.ts
+#EXTINF:-1,SE: TV12
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2412.ts
+#EXTINF:-1,SE: SVT 24/B
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2411.ts
+#EXTINF:-1,SE: TV4 FAKTA HD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2410.ts
+#EXTINF:-1,SE: TV4 FAKTA
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2409.ts
+#EXTINF:-1,SE: TV4 Film HD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2408.ts
+#EXTINF:-1,SE: TV4 Gold
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2407.ts
+#EXTINF:-1,SE: TV8 Sweden
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2404.ts
+#EXTINF:-1,SE: Viasat Sport Premium HD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2403.ts
+#EXTINF:-1,SE: C MORE EMOTION
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2489.ts
+#EXTINF:-1,SE: C MORE FIRST
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2488.ts
+#EXTINF:-1,SE: C MORE LIVE 3
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2487.ts
+#EXTINF:-1,SE: C MORE HITS
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2486.ts
+#EXTINF:-1,SE: C MORE LIVE 1
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2484.ts
+#EXTINF:-1,SE: C MORE SERIES
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2483.ts
+#EXTINF:-1,SE: C MORE SPORT
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2482.ts
+#EXTINF:-1,SE: C MORE LIVE 2
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2481.ts
+#EXTINF:-1,SE: C MORE LIVE 4
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2480.ts
+#EXTINF:-1,SE: DRK SK
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2472.ts
+#EXTINF:-1,SE: EXTREME SPORT
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2471.ts
+#EXTINF:-1,SE: ***** 4
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2468.ts
+#EXTINF:-1,SE: NRK 2
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2461.ts
+#EXTINF:-1,SE: TV2 NEWS
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2455.ts
+#EXTINF:-1,SE: TV3 SWEDEN HD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2454.ts
+#EXTINF:-1,SE: TV4 HD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2447.ts
+#EXTINF:-1,SE: TV6
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2444.ts
+#EXTINF:-1,SE: TV 4 GULD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2443.ts
+#EXTINF:-1,SE: VIASAT ACTION
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2502.ts
+#EXTINF:-1,SE: VIASAT EXPLORE SW
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2501.ts
+#EXTINF:-1,SE: VIASAT FILM PREMIER
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2500.ts
+#EXTINF:-1,SE: VIASAT FILM FAMILY
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2499.ts
+#EXTINF:-1,SE: VIASAT FOOTBALL
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2497.ts
+#EXTINF:-1,SE: C MORE FUTBOL
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2496.ts
+#EXTINF:-1,SE: C MORE HOCKEY
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2494.ts
+#EXTINF:-1,SE: VIASAT MOTOR
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2493.ts
+#EXTINF:-1,SE: VIASAT SERIES
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2492.ts
+#EXTINF:-1,SE: VIASAT SPORT
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2491.ts
+#EXTINF:-1,SE: 6 Eren
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2235.ts
+#EXTINF:-1,SE: TV4 Sport
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2226.ts
+#EXTINF:-1,SE: Viasat Film Action
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2225.ts
